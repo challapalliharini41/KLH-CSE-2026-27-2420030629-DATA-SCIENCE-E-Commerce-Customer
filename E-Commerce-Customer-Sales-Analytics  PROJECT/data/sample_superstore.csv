@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer ID,Product Name,Category,Region,Sales,Profit,Quantity,Discount
+ORD-00900,2023-01-04,CUST-0165,Storage Cabinet,Office Supplies,Central,45.13,10.29,1,0.0
+ORD-00772,2023-01-05,CUST-0123,Desk Lamp,Office Supplies,East,361.42,60.34,7,0.1
+ORD-00844,2023-01-05,CUST-0050,Monitor,Office Supplies,Central,102.68,28.03,2,0.3
+ORD-00845,2023-01-05,CUST-0179,Desk Lamp,Technology,East,2278.04,-291.58,5,0.0
+ORD-00380,2023-01-05,CUST-0054,Keyboard,Office Supplies,South,256.71,10.17,3,0.0
+ORD-00464,2023-01-06,CUST-0095,Notebook Pack,Office Supplies,South,68.05,10.35,1,0.0
+ORD-01189,2023-01-07,CUST-0158,Keyboard,Technology,Central,577.2,146.69,1,0.1
+ORD-00574,2023-01-07,CUST-0139,Desk Lamp,Office Supplies,Central,42.94,9.69,1,0.2
+ORD-00103,2023-01-07,CUST-0162,Storage Cabinet,Technology,Central,609.07,-80.03,1,0.05
+ORD-01174,2023-01-08,CUST-0126,Notebook Pack,Furniture,South,480.63,73.64,1,0.1
+ORD-00706,2023-01-08,CUST-0054,Office Chair,Furniture,East,109.6,24.24,1,0.1
+ORD-00302,2023-01-09,CUST-0042,Wireless Mouse,Furniture,East,93.48,6.02,2,0.0
+ORD-01069,2023-01-10,CUST-0176,Laptop Stand,Office Supplies,Central,429.06,-27.46,5,0.0
+ORD-00800,2023-01-11,CUST-0159,Laptop Stand,Office Supplies,West,273.5,74.24,6,0.1
+ORD-00789,2023-01-12,CUST-0167,Notebook Pack,Technology,South,2340.4,486.56,6,0.3
+ORD-01120,2023-01-13,CUST-0018,Desk Lamp,Technology,East,1785.49,382.85,4,0.0
+ORD-00409,2023-01-13,CUST-0023,Desk Lamp,Furniture,East,356.17,79.39,7,0.3
+ORD-01037,2023-01-14,CUST-0049,Wireless Mouse,Furniture,East,1076.38,136.69,4,0.1
+ORD-00838,2023-01-14,CUST-0178,Storage Cabinet,Office Supplies,East,118.06,23.57,1,0.0
+ORD-00888,2023-01-15,CUST-0055,Storage Cabinet,Office Supplies,South,70.5,-12.26,1,0.05
+ORD-00414,2023-01-17,CUST-0011,Monitor,Office Supplies,South,124.47,-18.73,2,0.05
+ORD-00477,2023-01-17,CUST-0076,Notebook Pack,Furniture,South,608.46,-41.03,3,0.5
+ORD-00232,2023-01-18,CUST-0031,Notebook Pack,Technology,West,670.83,21.28,2,0.2
+ORD-00299,2023-01-20,CUST-0152,Laptop Stand,Office Supplies,West,231.84,-38.88,2,0.0
+ORD-00368,2023-01-20,CUST-0164,Notebook Pack,Furniture,West,69.26,10.68,1,0.3
+ORD-01166,2023-01-20,CUST-0061,Desk Lamp,Technology,Central,3101.15,-237.91,5,0.0
+ORD-00539,2023-01-20,CUST-0037,Monitor,Office Supplies,West,85.42,-0.75,1,0.05
+ORD-00169,2023-01-21,CUST-0115,Wireless Mouse,Furniture,South,1490.73,-20.15,6,0.3
+ORD-00271,2023-01-21,CUST-0126,Storage Cabinet,Technology,Central,1037.51,-64.31,6,0.3
+ORD-00820,2023-01-22,CUST-0055,Office Chair,Office Supplies,East,480.08,-6.77,6,0.0
+ORD-00453,2023-01-23,CUST-0108,Storage Cabinet,Technology,Central,2239.25,264.77,5,0.0
+ORD-00428,2023-01-23,CUST-0070,Monitor,Technology,East,2368.13,422.1,5,0.0
+ORD-01179,2023-01-23,CUST-0118,Laptop Stand,Office Supplies,Central,116.95,5.03,3,0.05
+ORD-00829,2023-01-27,CUST-0062,Monitor,Office Supplies,East,243.35,22.67,3,0.1
+ORD-00137,2023-01-28,CUST-0054,Monitor,Office Supplies,Central,144.16,21.15,6,0.05
+ORD-00384,2023-01-29,CUST-0115,Laptop Stand,Office Supplies,South,41.9,-4.12,2,0.1
+ORD-00786,2023-01-30,CUST-0149,Office Chair,Technology,East,1150.32,29.44,5,0.3
+ORD-00146,2023-02-01,CUST-0155,Laptop Stand,Furniture,West,1366.07,298.98,4,0.0
+ORD-00662,2023-02-01,CUST-0153,Keyboard,Office Supplies,Central,75.55,-12.54,4,0.0
+ORD-00843,2023-02-02,CUST-0135,Storage Cabinet,Office Supplies,Central,121.67,2.16,3,0.05
+ORD-00969,2023-02-02,CUST-0177,Notebook Pack,Furniture,Central,2096.65,118.94,5,0.0
+ORD-00327,2023-02-03,CUST-0025,Wireless Mouse,Furniture,Central,696.56,106.75,6,0.2
+ORD-00116,2023-02-03,CUST-0128,Monitor,Office Supplies,East,202.63,-18.12,6,0.3
+ORD-00869,2023-02-06,CUST-0076,Notebook Pack,Furniture,Central,231.81,-30.82,1,0.5
+ORD-01018,2023-02-07,CUST-0052,Office Chair,Office Supplies,West,23.38,4.09,4,0.05
+ORD-01098,2023-02-07,CUST-0040,Laptop Stand,Technology,Central,1020.85,-101.16,2,0.0
+ORD-00249,2023-02-07,CUST-0019,Wireless Mouse,Technology,South,593.39,72.4,2,0.05
+ORD-00816,2023-02-08,CUST-0075,Storage Cabinet,Technology,South,2903.42,274.93,7,0.2
+ORD-00901,2023-02-08,CUST-0121,Laptop Stand,Technology,West,2265.59,-56.68,5,0.0
+ORD-00561,2023-02-09,CUST-0074,Monitor,Technology,South,1084.26,263.12,5,0.3
+ORD-00055,2023-02-09,CUST-0016,Storage Cabinet,Office Supplies,Central,52.31,9.88,7,0.0
+ORD-00810,2023-02-09,CUST-0090,Office Chair,Technology,West,1153.35,321.5,6,0.5
+ORD-01109,2023-02-10,CUST-0097,Notebook Pack,Office Supplies,Central,30.36,2.55,3,0.5
+ORD-00351,2023-02-10,CUST-0154,Keyboard,Furniture,Central,64.24,17.53,1,0.2
+ORD-00396,2023-02-10,CUST-0119,Laptop Stand,Technology,South,632.37,56.75,4,0.0
+ORD-00573,2023-02-14,CUST-0071,Monitor,Office Supplies,East,184.87,-0.4,5,0.5
+ORD-00698,2023-02-15,CUST-0135,Laptop Stand,Technology,South,775.64,15.11,3,0.5
+ORD-00847,2023-02-16,CUST-0096,Wireless Mouse,Office Supplies,South,77.78,16.42,3,0.5
+ORD-00583,2023-02-16,CUST-0172,Storage Cabinet,Technology,West,2862.83,330.51,6,0.0
+ORD-00886,2023-02-17,CUST-0132,Desk Lamp,Furniture,South,347.74,-23.42,7,0.3
+ORD-00545,2023-02-18,CUST-0177,Keyboard,Office Supplies,West,458.81,-3.39,5,0.1
+ORD-00897,2023-02-19,CUST-0155,Wireless Mouse,Furniture,South,1346.9,111.56,3,0.1
+ORD-00541,2023-02-19,CUST-0134,Office Chair,Technology,Central,3416.49,407.42,7,0.05
+ORD-01025,2023-02-20,CUST-0112,Desk Lamp,Technology,Central,4135.16,1059.54,7,0.0
+ORD-01020,2023-02-20,CUST-0171,Wireless Mouse,Furniture,Central,1573.62,-80.99,4,0.0
+ORD-00857,2023-02-21,CUST-0133,Laptop Stand,Furniture,South,3127.07,330.91,7,0.0
+ORD-00149,2023-02-22,CUST-0108,Laptop Stand,Technology,West,1709.55,-18.39,7,0.0
+ORD-01135,2023-02-22,CUST-0098,Wireless Mouse,Office Supplies,West,262.98,-33.42,4,0.2
+ORD-00618,2023-02-25,CUST-0025,Laptop Stand,Furniture,Central,166.64,5.45,3,0.5
+ORD-00035,2023-02-27,CUST-0063,Desk Lamp,Technology,Central,104.55,-14.45,1,0.2
+ORD-00278,2023-02-28,CUST-0042,Monitor,Furniture,South,204.49,37.75,1,0.05
+ORD-01034,2023-03-01,CUST-0106,Notebook Pack,Office Supplies,West,94.22,23.88,6,0.3
+ORD-00517,2023-03-01,CUST-0069,Desk Lamp,Office Supplies,East,221.75,58.17,4,0.3
+ORD-00386,2023-03-02,CUST-0149,Notebook Pack,Furniture,South,186.67,-22.63,4,0.0
+ORD-00044,2023-03-03,CUST-0158,Keyboard,Furniture,South,1132.13,274.93,5,0.05
+ORD-00898,2023-03-05,CUST-0136,Monitor,Technology,Central,5200.83,-525.32,7,0.05
+ORD-01021,2023-03-06,CUST-0028,Wireless Mouse,Furniture,Central,2634.48,440.01,7,0.2
+ORD-00658,2023-03-07,CUST-0095,Wireless Mouse,Technology,Central,3024.26,486.92,5,0.3
+ORD-00068,2023-03-10,CUST-0172,Notebook Pack,Furniture,South,368.06,64.73,2,0.3
+ORD-01054,2023-03-10,CUST-0054,Wireless Mouse,Office Supplies,West,98.74,12.68,7,0.2
+ORD-01026,2023-03-11,CUST-0158,Laptop Stand,Office Supplies,East,117.06,16.92,2,0.2
+ORD-00216,2023-03-13,CUST-0115,Wireless Mouse,Office Supplies,East,261.63,-46.47,4,0.0
+ORD-00126,2023-03-13,CUST-0123,Notebook Pack,Furniture,West,146.3,-5.19,2,0.5
+ORD-01095,2023-03-14,CUST-0145,Monitor,Technology,South,4177.8,86.39,7,0.05
+ORD-00438,2023-03-14,CUST-0033,Keyboard,Technology,South,351.59,25.2,1,0.1
+ORD-00279,2023-03-16,CUST-0075,Desk Lamp,Furniture,Central,849.27,38.44,3,0.3
+ORD-01121,2023-03-17,CUST-0007,Notebook Pack,Technology,South,2363.92,-169.07,5,0.1
+ORD-00245,2023-03-17,CUST-0007,Wireless Mouse,Office Supplies,West,32.8,-1.7,3,0.2
+ORD-00430,2023-03-17,CUST-0104,Keyboard,Furniture,East,2414.49,464.31,6,0.1
+ORD-00677,2023-03-18,CUST-0162,Wireless Mouse,Furniture,Central,641.37,-49.77,3,0.2
+ORD-00006,2023-03-19,CUST-0093,Monitor,Office Supplies,West,143.42,17.45,2,0.1
+ORD-00880,2023-03-19,CUST-0149,Office Chair,Furniture,East,1445.41,-192.77,3,0.0
+ORD-00752,2023-03-19,CUST-0013,Wireless Mouse,Office Supplies,Central,328.84,-34.61,5,0.3
+ORD-00195,2023-03-20,CUST-0107,Notebook Pack,Technology,East,1292.62,200.95,3,0.3
+ORD-00727,2023-03-20,CUST-0023,Keyboard,Office Supplies,West,167.15,21.88,5,0.05
+ORD-00000,2023-03-22,CUST-0159,Desk Lamp,Office Supplies,Central,281.45,71.45,5,0.0
+ORD-00132,2023-03-23,CUST-0077,Laptop Stand,Office Supplies,South,614.87,99.64,7,0.0
+ORD-00694,2023-03-23,CUST-0025,Office Chair,Furniture,South,478.12,130.41,1,0.0
+ORD-00358,2023-03-23,CUST-0180,Office Chair,Office Supplies,East,43.7,5.72,1,0.3
+ORD-00825,2023-03-23,CUST-0086,Keyboard,Furniture,Central,1322.26,62.24,4,0.05
+ORD-00171,2023-03-23,CUST-0062,Monitor,Office Supplies,West,110.66,2.37,3,0.3
+ORD-00909,2023-03-24,CUST-0052,Desk Lamp,Technology,South,2164.36,138.23,7,0.1
+ORD-00032,2023-03-24,CUST-0175,Storage Cabinet,Technology,West,3426.38,-442.72,6,0.0
+ORD-00580,2023-03-25,CUST-0009,Desk Lamp,Technology,East,2160.37,442.04,4,0.2
+ORD-00009,2023-03-26,CUST-0174,Laptop Stand,Furniture,South,299.87,22.09,1,0.1
+ORD-00950,2023-03-26,CUST-0060,Desk Lamp,Office Supplies,South,326.97,46.75,5,0.1
+ORD-00673,2023-03-27,CUST-0170,Wireless Mouse,Office Supplies,East,215.62,3.29,4,0.0
+ORD-00976,2023-03-27,CUST-0019,Keyboard,Furniture,West,2157.46,160.32,6,0.1
+ORD-00242,2023-03-27,CUST-0169,Laptop Stand,Technology,West,3444.87,273.39,7,0.2
+ORD-00375,2023-03-27,CUST-0058,Laptop Stand,Technology,East,860.63,183.6,7,0.5
+ORD-00699,2023-03-27,CUST-0062,Monitor,Technology,East,1932.63,403.9,3,0.0
+ORD-00790,2023-03-28,CUST-0096,Desk Lamp,Technology,East,1542.45,166.41,7,0.1
+ORD-00217,2023-03-28,CUST-0079,Wireless Mouse,Office Supplies,Central,118.14,13.36,2,0.3
+ORD-00086,2023-03-29,CUST-0164,Storage Cabinet,Furniture,Central,291.72,-30.78,4,0.2
+ORD-00890,2023-03-31,CUST-0160,Storage Cabinet,Furniture,West,632.01,131.55,2,0.0
+ORD-00587,2023-03-31,CUST-0018,Keyboard,Office Supplies,South,325.1,-54.07,4,0.3
+ORD-00579,2023-04-02,CUST-0124,Laptop Stand,Furniture,Central,1478.26,368.62,4,0.2
+ORD-00257,2023-04-04,CUST-0082,Desk Lamp,Furniture,South,1113.21,-107.03,5,0.3
+ORD-01165,2023-04-05,CUST-0016,Storage Cabinet,Office Supplies,East,77.76,-11.72,3,0.5
+ORD-00515,2023-04-05,CUST-0159,Wireless Mouse,Office Supplies,Central,173.78,-8.8,3,0.0
+ORD-00459,2023-04-06,CUST-0046,Monitor,Technology,East,2649.83,-106.06,4,0.1
+ORD-00817,2023-04-06,CUST-0131,Monitor,Technology,East,292.66,69.74,4,0.2
+ORD-00170,2023-04-06,CUST-0159,Laptop Stand,Technology,South,3402.78,-393.11,4,0.0
+ORD-00582,2023-04-07,CUST-0005,Monitor,Technology,West,2940.87,786.88,5,0.1
+ORD-00321,2023-04-07,CUST-0129,Notebook Pack,Office Supplies,Central,331.0,-8.55,7,0.0
+ORD-00309,2023-04-08,CUST-0123,Keyboard,Office Supplies,West,154.8,38.03,2,0.1
+ORD-00479,2023-04-09,CUST-0093,Monitor,Office Supplies,East,65.52,-8.18,3,0.5
+ORD-00807,2023-04-10,CUST-0028,Monitor,Technology,Central,1901.18,258.89,7,0.3
+ORD-00500,2023-04-13,CUST-0048,Notebook Pack,Office Supplies,East,110.04,7.29,1,0.0
+ORD-00872,2023-04-13,CUST-0073,Laptop Stand,Technology,South,4278.95,25.98,7,0.0
+ORD-00119,2023-04-14,CUST-0072,Monitor,Office Supplies,Central,6.1,-0.45,2,0.0
+ORD-00537,2023-04-14,CUST-0018,Wireless Mouse,Technology,Central,5199.61,1383.54,7,0.05
+ORD-01019,2023-04-15,CUST-0035,Office Chair,Furniture,Central,344.65,26.04,2,0.3
+ORD-00364,2023-04-15,CUST-0101,Wireless Mouse,Office Supplies,West,628.18,59.14,6,0.0
+ORD-00725,2023-04-16,CUST-0024,Laptop Stand,Technology,East,2658.95,675.99,5,0.0
+ORD-00777,2023-04-17,CUST-0062,Desk Lamp,Office Supplies,South,134.22,-8.2,4,0.5
+ORD-00312,2023-04-17,CUST-0134,Desk Lamp,Office Supplies,South,114.39,-13.97,1,0.0
+ORD-00197,2023-04-17,CUST-0118,Desk Lamp,Office Supplies,South,40.8,-6.03,2,0.0
+ORD-00945,2023-04-18,CUST-0080,Desk Lamp,Office Supplies,East,336.76,8.62,4,0.1
+ORD-00496,2023-04-18,CUST-0085,Storage Cabinet,Technology,East,2823.42,297.86,5,0.0
+ORD-01049,2023-04-18,CUST-0077,Storage Cabinet,Furniture,East,1757.8,-125.89,4,0.0
+ORD-00723,2023-04-18,CUST-0079,Wireless Mouse,Furniture,South,1031.03,-116.43,3,0.1
+ORD-00862,2023-04-19,CUST-0027,Desk Lamp,Furniture,South,552.8,-19.78,2,0.1
+ORD-01156,2023-04-19,CUST-0075,Notebook Pack,Furniture,East,1517.84,18.45,6,0.2
+ORD-00783,2023-04-20,CUST-0136,Office Chair,Technology,East,1166.79,57.82,5,0.5
+ORD-00417,2023-04-20,CUST-0092,Office Chair,Office Supplies,Central,21.39,1.74,1,0.2
+ORD-00782,2023-04-21,CUST-0010,Notebook Pack,Office Supplies,Central,157.89,-7.1,3,0.3
+ORD-00385,2023-04-21,CUST-0058,Laptop Stand,Office Supplies,Central,422.63,-21.62,4,0.0
+ORD-00435,2023-04-22,CUST-0097,Storage Cabinet,Furniture,South,357.86,-39.73,1,0.0
+ORD-00873,2023-04-23,CUST-0062,Wireless Mouse,Office Supplies,Central,125.3,-17.97,3,0.05
+ORD-00156,2023-04-24,CUST-0062,Laptop Stand,Office Supplies,East,44.64,8.44,1,0.2
+ORD-00220,2023-04-25,CUST-0171,Keyboard,Office Supplies,South,110.05,-6.63,2,0.0
+ORD-00017,2023-04-26,CUST-0132,Desk Lamp,Office Supplies,West,79.46,9.28,1,0.2
+ORD-00758,2023-04-26,CUST-0119,Wireless Mouse,Office Supplies,Central,154.19,36.27,3,0.0
+ORD-01004,2023-04-26,CUST-0082,Monitor,Furniture,West,891.04,-137.79,3,0.0
+ORD-00073,2023-04-27,CUST-0122,Wireless Mouse,Office Supplies,Central,122.05,17.82,5,0.0
+ORD-00944,2023-04-27,CUST-0066,Keyboard,Furniture,East,2080.25,-107.16,6,0.1
+ORD-00704,2023-04-27,CUST-0060,Monitor,Office Supplies,Central,1449.38,145.27,7,0.5
+ORD-00433,2023-04-28,CUST-0159,Desk Lamp,Office Supplies,East,297.67,80.13,3,0.1
+ORD-00669,2023-04-29,CUST-0140,Storage Cabinet,Office Supplies,West,244.41,-33.53,3,0.2
+ORD-00442,2023-04-29,CUST-0081,Office Chair,Furniture,South,770.24,-48.93,4,0.0
+ORD-00413,2023-04-29,CUST-0125,Desk Lamp,Furniture,Central,478.95,123.17,1,0.05
+ORD-00947,2023-05-01,CUST-0169,Office Chair,Office Supplies,East,259.72,14.51,3,0.0
+ORD-00603,2023-05-02,CUST-0047,Wireless Mouse,Office Supplies,Central,61.86,12.09,3,0.05
+ORD-00822,2023-05-03,CUST-0119,Storage Cabinet,Technology,East,2857.42,521.09,7,0.3
+ORD-00681,2023-05-04,CUST-0048,Office Chair,Office Supplies,East,320.59,-0.55,3,0.0
+ORD-00099,2023-05-06,CUST-0006,Keyboard,Furniture,Central,797.55,62.71,2,0.1
+ORD-00720,2023-05-06,CUST-0071,Laptop Stand,Furniture,West,1475.54,71.06,7,0.2
+ORD-00117,2023-05-06,CUST-0107,Laptop Stand,Technology,West,737.48,183.52,2,0.5
+ORD-00768,2023-05-06,CUST-0152,Notebook Pack,Furniture,West,539.85,89.98,4,0.0
+ORD-00619,2023-05-06,CUST-0054,Office Chair,Office Supplies,Central,32.52,-1.53,1,0.05
+ORD-00240,2023-05-07,CUST-0141,Monitor,Technology,West,2238.95,-210.63,5,0.3
+ORD-00305,2023-05-07,CUST-0044,Notebook Pack,Furniture,Central,640.87,29.97,3,0.2
+ORD-00461,2023-05-07,CUST-0110,Storage Cabinet,Office Supplies,East,178.89,24.61,4,0.5
+ORD-01089,2023-05-08,CUST-0075,Office Chair,Furniture,West,236.1,25.44,3,0.0
+ORD-00328,2023-05-08,CUST-0004,Keyboard,Technology,Central,193.86,15.7,1,0.0
+ORD-01186,2023-05-09,CUST-0172,Wireless Mouse,Office Supplies,South,66.98,9.21,4,0.5
+ORD-00833,2023-05-09,CUST-0123,Storage Cabinet,Furniture,West,358.16,72.05,5,0.0
+ORD-01062,2023-05-10,CUST-0006,Laptop Stand,Furniture,Central,1801.71,-57.86,7,0.3
+ORD-00407,2023-05-10,CUST-0107,Laptop Stand,Technology,South,1025.11,163.39,5,0.0
+ORD-00527,2023-05-10,CUST-0103,Wireless Mouse,Office Supplies,East,24.35,4.19,4,0.0
+ORD-00923,2023-05-11,CUST-0110,Monitor,Technology,Central,4664.76,-170.07,6,0.0
+ORD-00255,2023-05-11,CUST-0012,Storage Cabinet,Technology,South,234.28,-4.49,1,0.1
+ORD-00521,2023-05-12,CUST-0134,Office Chair,Technology,South,514.17,-88.34,1,0.3
+ORD-00974,2023-05-14,CUST-0042,Storage Cabinet,Furniture,West,450.22,49.33,3,0.0
+ORD-00937,2023-05-14,CUST-0005,Office Chair,Office Supplies,South,206.78,31.92,3,0.0
+ORD-00456,2023-05-14,CUST-0153,Desk Lamp,Technology,East,768.7,-132.61,3,0.2
+ORD-00751,2023-05-14,CUST-0110,Notebook Pack,Technology,West,367.32,-45.06,3,0.1
+ORD-01103,2023-05-16,CUST-0159,Notebook Pack,Furniture,South,1694.34,-197.82,4,0.05
+ORD-00356,2023-05-17,CUST-0162,Laptop Stand,Office Supplies,South,206.98,27.41,5,0.0
+ORD-00272,2023-05-17,CUST-0081,Storage Cabinet,Technology,East,685.79,-113.37,4,0.0
+ORD-00181,2023-05-18,CUST-0052,Notebook Pack,Technology,South,5359.3,636.37,7,0.0
+ORD-00389,2023-05-18,CUST-0006,Keyboard,Technology,West,4260.45,310.69,5,0.05
+ORD-00535,2023-05-19,CUST-0144,Notebook Pack,Office Supplies,East,138.49,7.0,6,0.0
+ORD-01045,2023-05-19,CUST-0150,Desk Lamp,Technology,East,895.74,-150.83,1,0.0
+ORD-00057,2023-05-19,CUST-0100,Storage Cabinet,Office Supplies,Central,244.11,-41.07,5,0.3
+ORD-00960,2023-05-19,CUST-0146,Desk Lamp,Furniture,East,152.42,42.59,2,0.0
+ORD-00883,2023-05-20,CUST-0121,Storage Cabinet,Technology,West,500.44,-68.25,2,0.1
+ORD-00846,2023-05-21,CUST-0082,Monitor,Furniture,South,267.13,38.62,1,0.2
+ORD-00532,2023-05-21,CUST-0126,Laptop Stand,Office Supplies,West,341.77,9.01,4,0.0
+ORD-00749,2023-05-22,CUST-0058,Notebook Pack,Office Supplies,South,235.07,0.65,4,0.3
+ORD-00936,2023-05-23,CUST-0099,Storage Cabinet,Furniture,West,1262.02,-25.71,4,0.1
+ORD-00082,2023-05-25,CUST-0071,Notebook Pack,Furniture,West,690.74,52.54,2,0.0
+ORD-00286,2023-05-25,CUST-0030,Laptop Stand,Office Supplies,South,62.05,-5.17,1,0.0
+ORD-00177,2023-05-26,CUST-0136,Monitor,Office Supplies,East,90.05,2.7,4,0.5
+ORD-01075,2023-05-28,CUST-0077,Office Chair,Technology,East,983.36,251.31,5,0.0
+ORD-00349,2023-05-29,CUST-0001,Monitor,Technology,Central,1610.84,22.35,5,0.0
+ORD-00531,2023-05-29,CUST-0163,Desk Lamp,Technology,South,1128.58,172.35,2,0.05
+ORD-00040,2023-05-29,CUST-0092,Laptop Stand,Office Supplies,South,151.3,39.04,3,0.1
+ORD-00622,2023-05-29,CUST-0055,Desk Lamp,Office Supplies,East,20.02,-0.28,6,0.0
+ORD-00466,2023-05-30,CUST-0136,Notebook Pack,Office Supplies,Central,77.27,8.64,3,0.2
+ORD-00186,2023-05-30,CUST-0101,Keyboard,Office Supplies,South,235.38,-10.0,3,0.1
+ORD-01077,2023-05-30,CUST-0010,Notebook Pack,Technology,East,301.69,27.63,2,0.2
+ORD-00702,2023-05-31,CUST-0130,Wireless Mouse,Office Supplies,East,329.2,34.42,4,0.3
+ORD-00167,2023-05-31,CUST-0082,Wireless Mouse,Technology,West,1710.38,-306.39,6,0.2
+ORD-00684,2023-06-02,CUST-0112,Office Chair,Furniture,Central,1470.53,-52.16,3,0.0
+ORD-00261,2023-06-03,CUST-0057,Office Chair,Office Supplies,Central,51.82,6.7,3,0.1
+ORD-01192,2023-06-03,CUST-0112,Notebook Pack,Furniture,South,2018.33,547.84,4,0.05
+ORD-00703,2023-06-04,CUST-0045,Desk Lamp,Technology,Central,293.8,62.16,1,0.2
+ORD-01031,2023-06-05,CUST-0013,Keyboard,Office Supplies,East,178.71,11.12,6,0.0
+ORD-00907,2023-06-05,CUST-0025,Wireless Mouse,Office Supplies,West,68.31,9.01,1,0.3
+ORD-00410,2023-06-06,CUST-0140,Keyboard,Technology,East,1422.26,215.92,6,0.2
+ORD-00258,2023-06-07,CUST-0048,Keyboard,Office Supplies,West,356.5,-43.29,6,0.0
+ORD-00543,2023-06-07,CUST-0005,Monitor,Office Supplies,West,222.62,23.26,5,0.3
+ORD-00760,2023-06-08,CUST-0152,Notebook Pack,Office Supplies,West,8.14,0.36,1,0.0
+ORD-01173,2023-06-09,CUST-0072,Office Chair,Technology,East,1271.66,-148.77,3,0.05
+ORD-00660,2023-06-09,CUST-0134,Laptop Stand,Office Supplies,South,37.71,7.41,1,0.1
+ORD-00229,2023-06-09,CUST-0142,Desk Lamp,Furniture,East,134.82,-0.74,4,0.3
+ORD-00250,2023-06-11,CUST-0053,Monitor,Office Supplies,West,502.45,15.16,5,0.0
+ORD-00391,2023-06-11,CUST-0063,Notebook Pack,Technology,South,896.55,163.82,3,0.3
+ORD-00348,2023-06-12,CUST-0089,Storage Cabinet,Furniture,West,1982.24,6.6,4,0.0
+ORD-01105,2023-06-12,CUST-0018,Storage Cabinet,Furniture,East,1466.75,159.38,3,0.0
+ORD-00468,2023-06-13,CUST-0096,Laptop Stand,Technology,Central,2974.58,148.32,4,0.1
+ORD-00563,2023-06-13,CUST-0109,Storage Cabinet,Technology,South,405.02,43.56,1,0.0
+ORD-00022,2023-06-14,CUST-0174,Office Chair,Office Supplies,South,50.09,12.59,3,0.1
+ORD-00634,2023-06-14,CUST-0074,Notebook Pack,Technology,Central,850.96,-118.26,7,0.1
+ORD-00911,2023-06-15,CUST-0122,Monitor,Office Supplies,South,441.15,-67.34,6,0.0
+ORD-00252,2023-06-19,CUST-0010,Notebook Pack,Office Supplies,South,101.15,9.57,2,0.05
+ORD-00071,2023-06-20,CUST-0020,Storage Cabinet,Furniture,South,563.28,-84.96,5,0.3
+ORD-01177,2023-06-22,CUST-0025,Desk Lamp,Office Supplies,East,490.76,55.54,6,0.3
+ORD-00522,2023-06-23,CUST-0118,Keyboard,Office Supplies,Central,16.4,0.35,2,0.0
+ORD-00887,2023-06-23,CUST-0120,Notebook Pack,Furniture,East,406.7,33.43,3,0.0
+ORD-01112,2023-06-23,CUST-0092,Wireless Mouse,Furniture,Central,2152.08,420.29,7,0.0
+ORD-01114,2023-06-24,CUST-0041,Storage Cabinet,Furniture,Central,684.13,47.26,4,0.0
+ORD-00542,2023-06-25,CUST-0083,Desk Lamp,Technology,Central,225.66,-40.37,3,0.3
+ORD-00051,2023-06-25,CUST-0075,Office Chair,Technology,Central,227.12,11.68,1,0.1
+ORD-00397,2023-06-26,CUST-0131,Wireless Mouse,Technology,South,722.59,189.89,2,0.2
+ORD-00992,2023-06-27,CUST-0052,Wireless Mouse,Office Supplies,West,218.23,31.18,2,0.0
+ORD-00837,2023-06-28,CUST-0008,Desk Lamp,Technology,West,260.07,46.25,1,0.05
+ORD-00425,2023-06-29,CUST-0179,Keyboard,Office Supplies,West,33.81,-3.95,6,0.0
+ORD-00101,2023-06-29,CUST-0073,Wireless Mouse,Office Supplies,Central,146.38,-15.39,7,0.2
+ORD-01084,2023-06-30,CUST-0123,Keyboard,Technology,East,3589.86,494.66,4,0.0
+ORD-00871,2023-07-01,CUST-0117,Desk Lamp,Furniture,Central,1736.85,135.21,4,0.1
+ORD-00008,2023-07-01,CUST-0052,Desk Lamp,Technology,West,243.14,-5.44,1,0.0
+ORD-00223,2023-07-02,CUST-0122,Wireless Mouse,Furniture,West,682.48,-118.31,2,0.05
+ORD-00663,2023-07-02,CUST-0067,Desk Lamp,Office Supplies,West,194.56,-4.99,2,0.05
+ORD-00338,2023-07-02,CUST-0128,Monitor,Office Supplies,East,123.95,-14.48,6,0.0
+ORD-00652,2023-07-02,CUST-0082,Office Chair,Furniture,South,2645.78,345.96,7,0.1
+ORD-00734,2023-07-07,CUST-0027,Storage Cabinet,Office Supplies,East,39.15,-0.82,3,0.1
+ORD-01071,2023-07-08,CUST-0058,Keyboard,Office Supplies,West,170.37,9.38,6,0.0
+ORD-00141,2023-07-13,CUST-0025,Notebook Pack,Office Supplies,West,21.33,3.39,1,0.0
+ORD-00963,2023-07-15,CUST-0165,Keyboard,Furniture,East,2574.45,-259.64,5,0.0
+ORD-00902,2023-07-17,CUST-0031,Notebook Pack,Office Supplies,West,405.15,71.82,6,0.2
+ORD-00362,2023-07-21,CUST-0045,Laptop Stand,Office Supplies,West,383.08,83.71,6,0.0
+ORD-00975,2023-07-23,CUST-0138,Storage Cabinet,Office Supplies,South,25.94,5.41,6,0.3
+ORD-00077,2023-07-24,CUST-0140,Laptop Stand,Technology,West,877.83,200.41,2,0.2
+ORD-00031,2023-07-24,CUST-0133,Desk Lamp,Office Supplies,East,281.75,37.42,5,0.0
+ORD-00566,2023-07-25,CUST-0091,Desk Lamp,Office Supplies,East,56.25,6.4,1,0.2
+ORD-00411,2023-07-26,CUST-0026,Storage Cabinet,Office Supplies,East,220.2,57.29,3,0.2
+ORD-00325,2023-07-27,CUST-0009,Keyboard,Technology,Central,539.25,66.66,1,0.0
+ORD-00625,2023-07-29,CUST-0163,Office Chair,Technology,East,3182.62,-368.92,4,0.0
+ORD-01111,2023-07-29,CUST-0013,Storage Cabinet,Technology,West,1689.96,-239.79,6,0.0
+ORD-00485,2023-07-29,CUST-0094,Wireless Mouse,Technology,Central,4101.51,962.53,7,0.3
+ORD-00147,2023-07-30,CUST-0127,Laptop Stand,Furniture,Central,2498.26,-165.81,6,0.05
+ORD-00636,2023-07-31,CUST-0170,Office Chair,Technology,West,395.13,96.03,1,0.0
+ORD-00509,2023-08-01,CUST-0039,Keyboard,Furniture,West,144.09,5.2,1,0.2
+ORD-00718,2023-08-01,CUST-0082,Desk Lamp,Office Supplies,Central,106.61,-17.92,2,0.3
+ORD-00326,2023-08-01,CUST-0058,Desk Lamp,Furniture,East,209.07,-21.27,1,0.2
+ORD-00565,2023-08-02,CUST-0169,Notebook Pack,Technology,East,568.16,46.59,2,0.0
+ORD-00188,2023-08-03,CUST-0161,Monitor,Office Supplies,South,75.88,9.46,1,0.0
+ORD-00853,2023-08-03,CUST-0171,Wireless Mouse,Office Supplies,West,40.57,8.98,1,0.2
+ORD-00592,2023-08-04,CUST-0062,Desk Lamp,Technology,South,1598.8,224.09,3,0.0
+ORD-01046,2023-08-04,CUST-0104,Wireless Mouse,Technology,East,4165.42,-225.29,5,0.0
+ORD-00096,2023-08-04,CUST-0048,Keyboard,Technology,South,1302.07,65.48,5,0.2
+ORD-00383,2023-08-05,CUST-0075,Office Chair,Technology,South,217.65,1.76,1,0.2
+ORD-00831,2023-08-05,CUST-0032,Wireless Mouse,Furniture,Central,255.16,-3.15,2,0.0
+ORD-01123,2023-08-08,CUST-0118,Monitor,Technology,South,1630.17,-226.98,4,0.3
+ORD-00314,2023-08-08,CUST-0045,Desk Lamp,Office Supplies,East,402.95,-31.13,6,0.2
+ORD-01106,2023-08-08,CUST-0059,Storage Cabinet,Office Supplies,West,124.87,-20.65,2,0.2
+ORD-00118,2023-08-09,CUST-0081,Notebook Pack,Office Supplies,South,395.16,63.24,4,0.05
+ORD-00856,2023-08-09,CUST-0133,Desk Lamp,Office Supplies,South,136.37,33.26,5,0.1
+ORD-00988,2023-08-10,CUST-0084,Wireless Mouse,Technology,Central,1641.28,240.31,3,0.1
+ORD-01012,2023-08-10,CUST-0109,Office Chair,Office Supplies,West,17.49,2.39,6,0.2
+ORD-00830,2023-08-10,CUST-0101,Monitor,Technology,West,1496.99,54.77,5,0.1
+ORD-00924,2023-08-12,CUST-0135,Office Chair,Furniture,East,939.19,-145.8,3,0.3
+ORD-00507,2023-08-12,CUST-0165,Laptop Stand,Furniture,Central,709.43,-15.28,4,0.05
+ORD-00616,2023-08-13,CUST-0043,Laptop Stand,Office Supplies,West,184.3,0.59,4,0.1
+ORD-00567,2023-08-13,CUST-0085,Wireless Mouse,Technology,Central,411.41,82.38,1,0.0
+ORD-00482,2023-08-14,CUST-0007,Desk Lamp,Office Supplies,South,695.69,-23.0,7,0.05
+ORD-00695,2023-08-17,CUST-0154,Laptop Stand,Technology,East,1641.72,-20.03,5,0.2
+ORD-00918,2023-08-18,CUST-0099,Office Chair,Technology,East,705.81,86.16,1,0.0
+ORD-00345,2023-08-19,CUST-0107,Notebook Pack,Furniture,South,2324.98,-309.82,5,0.0
+ORD-00932,2023-08-20,CUST-0094,Office Chair,Office Supplies,South,49.1,6.94,1,0.3
+ORD-01178,2023-08-22,CUST-0178,Desk Lamp,Technology,East,872.23,40.93,3,0.05
+ORD-00210,2023-08-24,CUST-0011,Desk Lamp,Office Supplies,South,5.43,-0.22,1,0.2
+ORD-00379,2023-08-25,CUST-0109,Office Chair,Office Supplies,West,171.45,15.88,3,0.0
+ORD-00208,2023-08-26,CUST-0001,Laptop Stand,Office Supplies,Central,18.02,-0.4,3,0.1
+ORD-00617,2023-08-28,CUST-0046,Laptop Stand,Furniture,East,2117.48,483.33,5,0.2
+ORD-00205,2023-08-28,CUST-0028,Monitor,Furniture,South,1829.71,176.54,7,0.0
+ORD-00291,2023-08-29,CUST-0089,Notebook Pack,Office Supplies,West,279.09,-45.25,5,0.5
+ORD-01010,2023-08-30,CUST-0126,Laptop Stand,Office Supplies,Central,11.03,-1.28,1,0.05
+ORD-00508,2023-08-30,CUST-0044,Storage Cabinet,Office Supplies,East,359.42,8.1,5,0.0
+ORD-01122,2023-08-30,CUST-0061,Laptop Stand,Furniture,Central,2098.16,305.16,5,0.0
+ORD-00743,2023-09-01,CUST-0006,Monitor,Technology,South,244.91,1.83,1,0.1
+ORD-00778,2023-09-01,CUST-0011,Wireless Mouse,Office Supplies,West,31.17,1.37,1,0.3
+ORD-00889,2023-09-01,CUST-0004,Keyboard,Furniture,East,3460.8,117.95,7,0.0
+ORD-00215,2023-09-03,CUST-0142,Laptop Stand,Office Supplies,South,74.14,4.29,5,0.3
+ORD-00504,2023-09-04,CUST-0166,Keyboard,Furniture,East,117.74,1.03,3,0.05
+ORD-00142,2023-09-06,CUST-0022,Keyboard,Furniture,South,956.3,-40.18,4,0.3
+ORD-00280,2023-09-06,CUST-0028,Notebook Pack,Furniture,West,112.36,-12.49,1,0.1
+ORD-00038,2023-09-07,CUST-0054,Desk Lamp,Technology,South,2810.97,-250.14,4,0.05
+ORD-00110,2023-09-07,CUST-0095,Wireless Mouse,Furniture,South,679.68,134.3,7,0.0
+ORD-01191,2023-09-08,CUST-0035,Notebook Pack,Office Supplies,West,230.7,14.51,7,0.05
+ORD-00949,2023-09-08,CUST-0154,Desk Lamp,Technology,East,1250.73,-74.07,4,0.0
+ORD-00412,2023-09-09,CUST-0121,Storage Cabinet,Office Supplies,West,43.02,-4.21,1,0.2
+ORD-01027,2023-09-10,CUST-0168,Wireless Mouse,Technology,Central,2459.49,-104.65,7,0.0
+ORD-00398,2023-09-10,CUST-0153,Storage Cabinet,Office Supplies,Central,258.98,66.42,4,0.05
+ORD-00151,2023-09-11,CUST-0071,Laptop Stand,Office Supplies,East,611.47,17.98,7,0.0
+ORD-00313,2023-09-11,CUST-0060,Laptop Stand,Office Supplies,East,16.69,-0.22,1,0.2
+ORD-00572,2023-09-12,CUST-0066,Office Chair,Office Supplies,West,78.49,-12.98,1,0.0
+ORD-00813,2023-09-13,CUST-0166,Keyboard,Furniture,West,1482.51,-0.68,4,0.0
+ORD-00298,2023-09-14,CUST-0085,Notebook Pack,Furniture,South,1107.31,-197.31,3,0.2
+ORD-00533,2023-09-14,CUST-0156,Storage Cabinet,Technology,South,996.93,-107.04,2,0.0
+ORD-00449,2023-09-15,CUST-0151,Notebook Pack,Office Supplies,Central,73.59,2.76,1,0.2
+ORD-00659,2023-09-17,CUST-0133,Office Chair,Technology,South,494.06,-60.17,2,0.2
+ORD-00095,2023-09-17,CUST-0093,Notebook Pack,Furniture,West,706.67,44.7,5,0.5
+ORD-00854,2023-09-17,CUST-0129,Monitor,Furniture,East,900.14,-135.37,7,0.3
+ORD-00480,2023-09-17,CUST-0170,Laptop Stand,Office Supplies,Central,229.03,-16.06,5,0.5
+ORD-00840,2023-09-18,CUST-0053,Storage Cabinet,Furniture,South,473.19,32.21,2,0.0
+ORD-00494,2023-09-18,CUST-0029,Laptop Stand,Office Supplies,South,204.4,-2.14,2,0.0
+ORD-00341,2023-09-19,CUST-0044,Notebook Pack,Technology,East,1625.68,-168.42,7,0.0
+ORD-01113,2023-09-20,CUST-0010,Keyboard,Technology,East,3275.88,-194.37,4,0.0
+ORD-00153,2023-09-22,CUST-0165,Notebook Pack,Furniture,East,1458.08,270.12,3,0.1
+ORD-00270,2023-09-23,CUST-0162,Storage Cabinet,Office Supplies,South,227.9,40.86,4,0.0
+ORD-00795,2023-09-23,CUST-0001,Laptop Stand,Office Supplies,West,68.0,-0.33,1,0.0
+ORD-00418,2023-09-24,CUST-0022,Notebook Pack,Office Supplies,East,592.08,-0.33,7,0.2
+ORD-00637,2023-09-25,CUST-0055,Office Chair,Furniture,East,112.13,20.39,1,0.2
+ORD-00352,2023-09-26,CUST-0096,Laptop Stand,Furniture,West,279.08,22.31,1,0.0
+ORD-00970,2023-09-26,CUST-0004,Storage Cabinet,Furniture,West,447.68,102.01,2,0.5
+ORD-00262,2023-09-27,CUST-0009,Desk Lamp,Technology,Central,1268.49,224.59,2,0.0
+ORD-00441,2023-09-28,CUST-0010,Monitor,Technology,South,977.02,254.13,2,0.3
+ORD-00306,2023-09-29,CUST-0165,Desk Lamp,Office Supplies,South,252.28,39.07,6,0.5
+ORD-00801,2023-09-29,CUST-0012,Storage Cabinet,Furniture,South,48.76,13.49,1,0.3
+ORD-00189,2023-09-29,CUST-0164,Monitor,Technology,South,2609.91,33.17,4,0.0
+ORD-00927,2023-09-29,CUST-0113,Monitor,Furniture,East,482.66,-42.42,3,0.2
+ORD-00135,2023-10-01,CUST-0180,Storage Cabinet,Office Supplies,Central,44.64,5.3,2,0.3
+ORD-01154,2023-10-02,CUST-0056,Wireless Mouse,Furniture,Central,692.73,-86.32,3,0.1
+ORD-00951,2023-10-02,CUST-0058,Keyboard,Technology,East,2305.03,450.94,4,0.1
+ORD-01104,2023-10-03,CUST-0165,Keyboard,Furniture,East,439.05,106.04,2,0.2
+ORD-00225,2023-10-03,CUST-0147,Wireless Mouse,Furniture,East,1743.69,479.9,5,0.0
+ORD-01185,2023-10-04,CUST-0158,Storage Cabinet,Office Supplies,West,300.76,-27.12,6,0.0
+ORD-00238,2023-10-05,CUST-0058,Laptop Stand,Office Supplies,South,707.46,-15.45,7,0.0
+ORD-00332,2023-10-06,CUST-0168,Monitor,Office Supplies,West,125.15,22.3,2,0.0
+ORD-00525,2023-10-07,CUST-0141,Monitor,Technology,West,205.1,-25.86,1,0.0
+ORD-01059,2023-10-07,CUST-0179,Office Chair,Furniture,Central,594.04,159.5,4,0.1
+ORD-00399,2023-10-07,CUST-0128,Wireless Mouse,Technology,South,1435.71,-51.56,7,0.1
+ORD-00087,2023-10-09,CUST-0043,Monitor,Furniture,Central,1571.78,149.98,4,0.0
+ORD-00748,2023-10-09,CUST-0001,Wireless Mouse,Technology,East,1518.18,69.78,3,0.0
+ORD-01033,2023-10-10,CUST-0025,Notebook Pack,Office Supplies,East,78.73,-1.57,5,0.1
+ORD-00747,2023-10-10,CUST-0166,Monitor,Office Supplies,East,122.6,10.55,2,0.05
+ORD-00446,2023-10-10,CUST-0062,Keyboard,Furniture,Central,892.01,189.54,3,0.0
+ORD-01013,2023-10-11,CUST-0021,Wireless Mouse,Furniture,South,1454.47,296.1,4,0.1
+ORD-00798,2023-10-11,CUST-0051,Storage Cabinet,Office Supplies,South,272.07,-48.18,4,0.0
+ORD-01176,2023-10-12,CUST-0154,Notebook Pack,Office Supplies,South,79.26,19.03,6,0.2
+ORD-00367,2023-10-12,CUST-0109,Office Chair,Technology,East,377.46,-24.15,2,0.1
+ORD-00308,2023-10-12,CUST-0156,Laptop Stand,Technology,West,1427.09,75.79,3,0.1
+ORD-00987,2023-10-12,CUST-0047,Wireless Mouse,Office Supplies,Central,44.56,1.49,5,0.05
+ORD-00337,2023-10-13,CUST-0020,Laptop Stand,Office Supplies,Central,29.7,5.98,1,0.3
+ORD-00967,2023-10-13,CUST-0152,Notebook Pack,Furniture,West,704.8,174.0,4,0.5
+ORD-00524,2023-10-14,CUST-0097,Keyboard,Furniture,South,230.61,-26.84,3,0.3
+ORD-00553,2023-10-14,CUST-0072,Laptop Stand,Office Supplies,West,34.13,2.25,4,0.3
+ORD-00320,2023-10-16,CUST-0156,Laptop Stand,Furniture,South,2133.93,143.48,6,0.0
+ORD-00402,2023-10-16,CUST-0149,Laptop Stand,Office Supplies,South,8.86,1.57,3,0.1
+ORD-00594,2023-10-16,CUST-0087,Storage Cabinet,Office Supplies,Central,755.64,19.96,7,0.1
+ORD-00166,2023-10-17,CUST-0055,Office Chair,Technology,East,1500.88,98.78,3,0.0
+ORD-00606,2023-10-18,CUST-0002,Laptop Stand,Technology,Central,1320.76,314.29,7,0.2
+ORD-00065,2023-10-21,CUST-0007,Office Chair,Office Supplies,Central,209.59,-20.93,2,0.0
+ORD-00631,2023-10-22,CUST-0172,Keyboard,Office Supplies,East,8.06,0.06,1,0.2
+ORD-01094,2023-10-23,CUST-0129,Notebook Pack,Furniture,Central,275.45,25.33,7,0.2
+ORD-00645,2023-10-23,CUST-0112,Desk Lamp,Office Supplies,West,73.47,17.76,5,0.0
+ORD-00253,2023-10-24,CUST-0045,Office Chair,Office Supplies,South,161.18,36.92,4,0.1
+ORD-01144,2023-10-25,CUST-0106,Wireless Mouse,Office Supplies,West,143.76,18.76,2,0.3
+ORD-00076,2023-10-25,CUST-0119,Desk Lamp,Technology,West,1032.2,6.12,3,0.0
+ORD-00293,2023-10-26,CUST-0060,Laptop Stand,Office Supplies,South,713.7,-13.5,6,0.0
+ORD-01029,2023-10-28,CUST-0177,Storage Cabinet,Office Supplies,West,606.28,-30.31,7,0.2
+ORD-00168,2023-10-28,CUST-0174,Office Chair,Technology,East,2616.1,550.1,6,0.3
+ORD-00737,2023-10-28,CUST-0100,Storage Cabinet,Office Supplies,South,72.83,19.47,1,0.0
+ORD-00486,2023-10-28,CUST-0078,Monitor,Furniture,West,2503.76,452.16,6,0.05
+ORD-01068,2023-10-28,CUST-0022,Desk Lamp,Office Supplies,South,211.84,34.82,5,0.2
+ORD-00370,2023-10-30,CUST-0015,Laptop Stand,Furniture,Central,2262.19,233.88,7,0.2
+ORD-01175,2023-11-01,CUST-0179,Monitor,Technology,Central,509.4,-68.85,4,0.1
+ORD-01141,2023-11-01,CUST-0072,Desk Lamp,Technology,West,1431.13,163.45,6,0.1
+ORD-00626,2023-11-01,CUST-0019,Keyboard,Furniture,South,2518.0,-30.66,6,0.2
+ORD-00198,2023-11-02,CUST-0005,Laptop Stand,Office Supplies,Central,56.81,-7.22,2,0.5
+ORD-01159,2023-11-03,CUST-0038,Wireless Mouse,Technology,South,844.33,63.61,1,0.0
+ORD-00990,2023-11-05,CUST-0066,Wireless Mouse,Technology,Central,1092.28,49.58,5,0.2
+ORD-00196,2023-11-05,CUST-0112,Keyboard,Office Supplies,Central,476.11,55.08,5,0.0
+ORD-00267,2023-11-09,CUST-0070,Monitor,Technology,East,291.06,63.49,1,0.0
+ORD-00138,2023-11-09,CUST-0140,Office Chair,Office Supplies,West,24.43,4.5,1,0.0
+ORD-00978,2023-11-12,CUST-0113,Desk Lamp,Technology,Central,2165.26,348.66,5,0.1
+ORD-00043,2023-11-16,CUST-0089,Desk Lamp,Technology,East,943.73,69.51,6,0.3
+ORD-00520,2023-11-19,CUST-0016,Wireless Mouse,Technology,West,859.86,-68.61,1,0.0
+ORD-00997,2023-11-21,CUST-0155,Notebook Pack,Furniture,Central,1506.72,395.49,3,0.0
+ORD-00764,2023-11-21,CUST-0148,Office Chair,Office Supplies,East,160.47,2.64,4,0.0
+ORD-00193,2023-11-22,CUST-0134,Laptop Stand,Technology,Central,164.71,-17.35,1,0.2
+ORD-00300,2023-11-24,CUST-0096,Monitor,Office Supplies,Central,72.68,-6.56,3,0.1
+ORD-00052,2023-11-24,CUST-0014,Office Chair,Technology,East,700.53,42.27,3,0.3
+ORD-00745,2023-11-24,CUST-0022,Desk Lamp,Office Supplies,South,87.08,19.01,6,0.0
+ORD-01051,2023-11-25,CUST-0100,Notebook Pack,Office Supplies,Central,115.53,12.2,4,0.0
+ORD-01137,2023-11-26,CUST-0148,Wireless Mouse,Furniture,Central,1426.75,-189.16,6,0.0
+ORD-00062,2023-11-26,CUST-0081,Notebook Pack,Furniture,South,471.94,-24.1,3,0.1
+ORD-00200,2023-11-26,CUST-0154,Notebook Pack,Furniture,East,928.29,76.78,7,0.1
+ORD-00629,2023-11-26,CUST-0177,Keyboard,Furniture,South,1033.55,-154.89,3,0.0
+ORD-00392,2023-11-27,CUST-0070,Notebook Pack,Office Supplies,West,56.43,13.45,2,0.3
+ORD-00627,2023-11-27,CUST-0178,Notebook Pack,Furniture,East,2279.78,226.55,5,0.0
+ORD-01150,2023-11-29,CUST-0097,Storage Cabinet,Technology,West,844.45,-56.54,5,0.3
+ORD-00021,2023-11-30,CUST-0100,Storage Cabinet,Technology,Central,922.68,172.87,3,0.0
+ORD-00067,2023-11-30,CUST-0068,Laptop Stand,Office Supplies,West,53.04,3.89,2,0.1
+ORD-00331,2023-11-30,CUST-0002,Keyboard,Technology,West,2803.05,599.94,5,0.0
+ORD-00908,2023-12-01,CUST-0051,Laptop Stand,Furniture,Central,116.42,4.2,2,0.1
+ORD-01043,2023-12-02,CUST-0021,Notebook Pack,Technology,East,783.62,209.82,7,0.0
+ORD-00373,2023-12-03,CUST-0147,Office Chair,Office Supplies,West,512.08,100.71,6,0.0
+ORD-00497,2023-12-03,CUST-0027,Desk Lamp,Office Supplies,Central,285.32,1.88,7,0.3
+ORD-00575,2023-12-03,CUST-0024,Storage Cabinet,Office Supplies,Central,216.88,-21.03,3,0.05
+ORD-00769,2023-12-05,CUST-0028,Laptop Stand,Furniture,East,975.62,266.46,2,0.0
+ORD-00912,2023-12-05,CUST-0165,Storage Cabinet,Technology,West,1678.93,-262.53,3,0.3
+ORD-00633,2023-12-08,CUST-0013,Notebook Pack,Technology,Central,3426.52,2.65,6,0.2
+ORD-00378,2023-12-08,CUST-0021,Office Chair,Office Supplies,East,185.46,14.35,5,0.0
+ORD-00187,2023-12-09,CUST-0059,Notebook Pack,Furniture,South,928.68,254.86,7,0.0
+ORD-00757,2023-12-11,CUST-0096,Notebook Pack,Technology,West,1349.55,-143.48,4,0.0
+ORD-01158,2023-12-12,CUST-0113,Laptop Stand,Office Supplies,Central,35.83,-5.59,2,0.3
+ORD-01016,2023-12-12,CUST-0082,Office Chair,Technology,West,670.4,59.98,5,0.3
+ORD-00613,2023-12-13,CUST-0090,Monitor,Technology,South,173.06,-24.85,1,0.0
+ORD-00093,2023-12-15,CUST-0001,Monitor,Furniture,East,693.55,149.58,4,0.0
+ORD-01065,2023-12-16,CUST-0018,Notebook Pack,Technology,Central,829.97,-12.81,4,0.5
+ORD-00808,2023-12-18,CUST-0142,Desk Lamp,Technology,Central,558.26,-87.89,1,0.3
+ORD-01172,2023-12-19,CUST-0012,Keyboard,Furniture,West,2175.28,382.28,7,0.0
+ORD-01093,2023-12-20,CUST-0135,Wireless Mouse,Furniture,West,1885.54,-275.87,4,0.0
+ORD-00551,2023-12-21,CUST-0160,Keyboard,Technology,Central,3126.13,-103.45,6,0.0
+ORD-00439,2023-12-24,CUST-0050,Notebook Pack,Office Supplies,South,210.83,-20.08,3,0.0
+ORD-01167,2023-12-25,CUST-0032,Laptop Stand,Furniture,Central,876.17,174.69,6,0.2
+ORD-00956,2023-12-27,CUST-0080,Desk Lamp,Technology,West,995.67,140.1,2,0.3
+ORD-00026,2023-12-29,CUST-0020,Storage Cabinet,Furniture,East,508.59,-16.33,4,0.0
+ORD-00584,2023-12-30,CUST-0131,Keyboard,Technology,East,5000.49,1109.52,6,0.0
+ORD-00941,2023-12-30,CUST-0158,Monitor,Furniture,Central,1459.1,172.77,4,0.0
+ORD-00163,2024-01-01,CUST-0037,Office Chair,Technology,East,198.75,-21.44,1,0.3
+ORD-00686,2024-01-02,CUST-0118,Notebook Pack,Technology,East,1652.06,67.69,2,0.0
+ORD-01130,2024-01-02,CUST-0012,Keyboard,Office Supplies,South,167.14,21.77,3,0.0
+ORD-00961,2024-01-03,CUST-0044,Keyboard,Technology,East,1004.23,-100.07,4,0.1
+ORD-00143,2024-01-03,CUST-0104,Desk Lamp,Office Supplies,South,545.3,121.22,7,0.0
+ORD-00162,2024-01-04,CUST-0064,Notebook Pack,Office Supplies,South,60.07,6.37,2,0.3
+ORD-00064,2024-01-05,CUST-0043,Monitor,Office Supplies,South,113.11,-19.36,3,0.1
+ORD-00372,2024-01-05,CUST-0133,Monitor,Office Supplies,South,818.16,-23.66,7,0.0
+ORD-00906,2024-01-06,CUST-0138,Office Chair,Office Supplies,West,90.21,-10.61,1,0.0
+ORD-00959,2024-01-06,CUST-0061,Wireless Mouse,Technology,East,2628.26,-210.35,4,0.0
+ORD-00495,2024-01-07,CUST-0123,Notebook Pack,Office Supplies,South,23.94,1.2,6,0.1
+ORD-01190,2024-01-09,CUST-0082,Laptop Stand,Office Supplies,East,206.77,10.99,4,0.2
+ORD-01042,2024-01-09,CUST-0082,Desk Lamp,Furniture,Central,436.07,39.21,5,0.5
+ORD-00247,2024-01-10,CUST-0173,Wireless Mouse,Office Supplies,Central,462.93,113.37,4,0.0
+ORD-00571,2024-01-10,CUST-0068,Wireless Mouse,Office Supplies,Central,326.5,87.93,5,0.0
+ORD-01078,2024-01-11,CUST-0067,Wireless Mouse,Office Supplies,Central,23.13,-3.29,2,0.3
+ORD-00424,2024-01-11,CUST-0100,Notebook Pack,Furniture,Central,1878.39,-183.4,7,0.05
+ORD-00623,2024-01-11,CUST-0158,Desk Lamp,Office Supplies,East,1617.8,-258.16,7,0.0
+ORD-00971,2024-01-12,CUST-0135,Keyboard,Technology,East,3833.29,751.97,6,0.2
+ORD-00731,2024-01-12,CUST-0087,Desk Lamp,Office Supplies,South,179.54,4.97,3,0.1
+ORD-00274,2024-01-12,CUST-0176,Wireless Mouse,Furniture,East,2167.69,114.36,4,0.0
+ORD-00928,2024-01-12,CUST-0012,Desk Lamp,Technology,West,1469.78,161.55,6,0.1
+ORD-00164,2024-01-12,CUST-0100,Notebook Pack,Furniture,South,312.73,27.73,2,0.0
+ORD-00463,2024-01-13,CUST-0100,Notebook Pack,Technology,West,392.44,17.96,1,0.3
+ORD-01184,2024-01-14,CUST-0034,Office Chair,Technology,East,1745.79,110.82,2,0.0
+ORD-00776,2024-01-17,CUST-0168,Laptop Stand,Furniture,Central,1514.38,89.78,4,0.3
+ORD-01058,2024-01-18,CUST-0001,Monitor,Technology,West,3085.17,-37.52,7,0.2
+ORD-00499,2024-01-19,CUST-0174,Storage Cabinet,Office Supplies,South,257.79,-15.1,4,0.1
+ORD-00953,2024-01-21,CUST-0099,Office Chair,Office Supplies,West,323.14,56.42,6,0.3
+ORD-00546,2024-01-22,CUST-0178,Laptop Stand,Office Supplies,West,32.21,4.67,5,0.1
+ORD-01152,2024-01-23,CUST-0129,Laptop Stand,Technology,East,265.0,-38.47,1,0.3
+ORD-00794,2024-01-24,CUST-0136,Laptop Stand,Furniture,South,1970.81,502.4,6,0.0
+ORD-00993,2024-01-24,CUST-0040,Keyboard,Technology,South,1034.17,121.16,6,0.3
+ORD-00472,2024-01-24,CUST-0049,Desk Lamp,Office Supplies,East,333.3,59.12,4,0.3
+ORD-00237,2024-01-24,CUST-0118,Laptop Stand,Furniture,Central,265.8,-33.21,2,0.0
+ORD-00004,2024-01-25,CUST-0118,Laptop Stand,Technology,Central,3049.75,-155.95,4,0.1
+ORD-00406,2024-01-26,CUST-0027,Notebook Pack,Office Supplies,Central,554.78,63.48,6,0.2
+ORD-00434,2024-01-26,CUST-0075,Desk Lamp,Office Supplies,West,365.5,-0.06,5,0.0
+ORD-00620,2024-01-26,CUST-0057,Storage Cabinet,Office Supplies,South,87.83,20.58,1,0.1
+ORD-00632,2024-01-26,CUST-0106,Desk Lamp,Furniture,West,747.77,206.72,2,0.0
+ORD-00154,2024-01-26,CUST-0040,Desk Lamp,Office Supplies,West,49.81,5.42,1,0.05
+ORD-01099,2024-01-26,CUST-0161,Keyboard,Office Supplies,South,25.19,6.28,6,0.0
+ORD-00090,2024-01-27,CUST-0043,Wireless Mouse,Furniture,South,301.77,24.71,2,0.0
+ORD-00353,2024-01-27,CUST-0112,Wireless Mouse,Furniture,Central,1028.48,-147.72,7,0.0
+ORD-01038,2024-01-29,CUST-0086,Monitor,Furniture,West,1338.15,86.99,6,0.2
+ORD-00139,2024-01-29,CUST-0074,Storage Cabinet,Furniture,West,368.9,-41.69,4,0.3
+ORD-00081,2024-01-29,CUST-0134,Laptop Stand,Furniture,South,1027.11,247.11,3,0.0
+ORD-00003,2024-01-30,CUST-0138,Desk Lamp,Office Supplies,South,53.26,-7.3,5,0.5
+ORD-00755,2024-01-30,CUST-0073,Notebook Pack,Office Supplies,Central,70.19,9.23,7,0.2
+ORD-00120,2024-01-31,CUST-0021,Laptop Stand,Furniture,South,471.36,-60.69,2,0.0
+ORD-00297,2024-01-31,CUST-0141,Storage Cabinet,Office Supplies,West,493.87,73.69,7,0.1
+ORD-00284,2024-02-02,CUST-0075,Monitor,Office Supplies,Central,404.48,-21.4,4,0.0
+ORD-00799,2024-02-03,CUST-0051,Storage Cabinet,Office Supplies,South,53.74,8.72,5,0.5
+ORD-00934,2024-02-03,CUST-0080,Office Chair,Furniture,Central,345.87,61.32,3,0.0
+ORD-00029,2024-02-04,CUST-0052,Storage Cabinet,Technology,West,235.61,-40.02,2,0.5
+ORD-00688,2024-02-05,CUST-0012,Wireless Mouse,Office Supplies,South,273.12,42.59,5,0.2
+ORD-00046,2024-02-06,CUST-0155,Monitor,Office Supplies,South,34.27,4.21,1,0.3
+ORD-00868,2024-02-06,CUST-0060,Desk Lamp,Technology,South,5360.12,238.28,6,0.0
+ORD-00922,2024-02-06,CUST-0105,Monitor,Technology,Central,2285.35,196.85,4,0.2
+ORD-00185,2024-02-06,CUST-0043,Desk Lamp,Technology,East,4036.05,-632.56,6,0.2
+ORD-00266,2024-02-07,CUST-0115,Keyboard,Furniture,Central,1780.71,315.83,5,0.0
+ORD-00218,2024-02-07,CUST-0155,Monitor,Office Supplies,South,24.58,-3.21,1,0.05
+ORD-00882,2024-02-08,CUST-0059,Laptop Stand,Office Supplies,West,297.24,35.68,6,0.0
+ORD-01183,2024-02-08,CUST-0071,Notebook Pack,Technology,South,1679.86,115.63,3,0.0
+ORD-01091,2024-02-08,CUST-0058,Laptop Stand,Office Supplies,West,196.37,-18.53,4,0.3
+ORD-01056,2024-02-09,CUST-0144,Office Chair,Office Supplies,West,247.77,-42.39,3,0.2
+ORD-00213,2024-02-09,CUST-0143,Laptop Stand,Office Supplies,South,197.23,42.95,3,0.1
+ORD-00019,2024-02-10,CUST-0080,Office Chair,Technology,South,5224.27,943.75,6,0.0
+ORD-00030,2024-02-10,CUST-0148,Keyboard,Technology,West,1170.67,22.95,7,0.0
+ORD-00832,2024-02-12,CUST-0017,Keyboard,Furniture,Central,906.04,97.02,4,0.1
+ORD-00505,2024-02-13,CUST-0155,Wireless Mouse,Office Supplies,South,13.98,2.29,2,0.1
+ORD-00791,2024-02-13,CUST-0079,Laptop Stand,Office Supplies,Central,202.19,2.33,7,0.3
+ORD-00221,2024-02-15,CUST-0180,Laptop Stand,Furniture,West,1402.7,0.7,3,0.0
+ORD-00870,2024-02-15,CUST-0035,Laptop Stand,Office Supplies,West,157.08,34.77,2,0.05
+ORD-00536,2024-02-15,CUST-0091,Wireless Mouse,Office Supplies,Central,41.72,-1.18,3,0.2
+ORD-00204,2024-02-16,CUST-0032,Laptop Stand,Technology,South,86.87,21.77,1,0.1
+ORD-00915,2024-02-17,CUST-0037,Notebook Pack,Office Supplies,West,522.5,-82.71,7,0.3
+ORD-00797,2024-02-17,CUST-0179,Wireless Mouse,Furniture,Central,1178.32,-152.91,5,0.05
+ORD-00113,2024-02-18,CUST-0154,Monitor,Technology,Central,3143.59,-183.05,5,0.1
+ORD-00904,2024-02-18,CUST-0157,Storage Cabinet,Office Supplies,West,235.54,37.82,5,0.2
+ORD-00334,2024-02-19,CUST-0147,Desk Lamp,Technology,Central,487.61,74.33,1,0.0
+ORD-00646,2024-02-19,CUST-0073,Keyboard,Furniture,Central,414.65,16.57,1,0.1
+ORD-00175,2024-02-20,CUST-0173,Laptop Stand,Technology,South,1931.48,-309.0,4,0.0
+ORD-00938,2024-02-20,CUST-0098,Desk Lamp,Office Supplies,East,52.5,7.12,6,0.2
+ORD-00611,2024-02-21,CUST-0118,Desk Lamp,Furniture,West,390.57,78.27,1,0.1
+ORD-00230,2024-02-21,CUST-0085,Wireless Mouse,Office Supplies,West,305.84,41.29,4,0.3
+ORD-00484,2024-02-21,CUST-0065,Monitor,Technology,South,2614.58,-243.66,5,0.0
+ORD-00072,2024-02-21,CUST-0168,Keyboard,Furniture,East,2360.27,442.9,6,0.0
+ORD-00709,2024-02-24,CUST-0170,Keyboard,Office Supplies,South,85.64,22.34,4,0.0
+ORD-01074,2024-02-25,CUST-0033,Laptop Stand,Office Supplies,Central,481.04,1.19,5,0.0
+ORD-00473,2024-02-25,CUST-0137,Monitor,Technology,West,1485.29,-242.71,7,0.05
+ORD-00053,2024-02-25,CUST-0143,Storage Cabinet,Office Supplies,East,52.84,-0.74,2,0.1
+ORD-00276,2024-02-25,CUST-0089,Laptop Stand,Furniture,West,271.99,-47.53,1,0.05
+ORD-00366,2024-02-27,CUST-0175,Laptop Stand,Technology,Central,2930.0,764.17,6,0.0
+ORD-01101,2024-02-27,CUST-0026,Keyboard,Office Supplies,East,230.76,-3.26,7,0.0
+ORD-00069,2024-02-27,CUST-0009,Laptop Stand,Furniture,Central,2535.38,521.18,7,0.0
+ORD-00123,2024-02-28,CUST-0160,Office Chair,Office Supplies,Central,120.34,-7.43,4,0.3
+ORD-00108,2024-02-29,CUST-0075,Keyboard,Technology,South,2200.04,-258.18,5,0.0
+ORD-00943,2024-03-02,CUST-0110,Storage Cabinet,Office Supplies,West,291.2,-43.06,4,0.0
+ORD-00289,2024-03-02,CUST-0092,Monitor,Furniture,Central,1107.55,14.63,6,0.0
+ORD-00973,2024-03-02,CUST-0138,Notebook Pack,Technology,East,1703.88,-296.57,5,0.1
+ORD-00518,2024-03-03,CUST-0075,Office Chair,Office Supplies,South,44.23,8.51,2,0.2
+ORD-00075,2024-03-04,CUST-0129,Monitor,Furniture,Central,256.42,63.74,1,0.2
+ORD-00708,2024-03-04,CUST-0007,Monitor,Office Supplies,Central,133.02,28.67,2,0.1
+ORD-00972,2024-03-05,CUST-0180,Keyboard,Furniture,West,288.08,-20.09,2,0.1
+ORD-00784,2024-03-06,CUST-0115,Storage Cabinet,Office Supplies,West,127.48,-13.42,2,0.2
+ORD-00621,2024-03-06,CUST-0138,Desk Lamp,Furniture,South,1808.46,140.89,7,0.1
+ORD-01100,2024-03-07,CUST-0049,Storage Cabinet,Office Supplies,South,136.69,31.01,4,0.2
+ORD-00767,2024-03-07,CUST-0085,Wireless Mouse,Office Supplies,West,164.28,44.78,4,0.3
+ORD-00643,2024-03-08,CUST-0153,Laptop Stand,Office Supplies,South,153.6,31.34,4,0.1
+ORD-00275,2024-03-10,CUST-0055,Keyboard,Furniture,West,135.01,-4.02,1,0.1
+ORD-01145,2024-03-10,CUST-0047,Wireless Mouse,Technology,East,296.66,-34.27,3,0.1
+ORD-00281,2024-03-13,CUST-0001,Storage Cabinet,Technology,Central,1742.94,-26.3,3,0.3
+ORD-01030,2024-03-14,CUST-0114,Storage Cabinet,Furniture,West,2663.74,185.49,7,0.0
+ORD-00443,2024-03-15,CUST-0108,Notebook Pack,Technology,South,4023.42,-341.32,6,0.2
+ORD-00728,2024-03-15,CUST-0033,Office Chair,Technology,East,768.85,-120.76,1,0.0
+ORD-00650,2024-03-16,CUST-0015,Storage Cabinet,Technology,West,646.22,-9.71,2,0.1
+ORD-01115,2024-03-17,CUST-0001,Storage Cabinet,Furniture,East,2149.63,244.97,7,0.1
+ORD-00283,2024-03-17,CUST-0021,Laptop Stand,Technology,West,736.28,-94.3,2,0.2
+ORD-00717,2024-03-18,CUST-0089,Desk Lamp,Office Supplies,Central,506.74,45.69,5,0.0
+ORD-00562,2024-03-19,CUST-0002,Desk Lamp,Technology,Central,3140.82,470.37,4,0.0
+ORD-01119,2024-03-19,CUST-0140,Desk Lamp,Office Supplies,South,301.21,-5.05,4,0.05
+ORD-00234,2024-03-19,CUST-0058,Storage Cabinet,Technology,East,1908.32,-60.55,6,0.0
+ORD-01017,2024-03-20,CUST-0180,Notebook Pack,Office Supplies,South,27.86,0.81,5,0.1
+ORD-00251,2024-03-20,CUST-0008,Notebook Pack,Office Supplies,East,53.9,7.38,2,0.0
+ORD-00202,2024-03-21,CUST-0054,Wireless Mouse,Office Supplies,Central,1028.52,-100.9,2,0.0
+ORD-00184,2024-03-22,CUST-0070,Storage Cabinet,Office Supplies,East,52.43,3.5,2,0.0
+ORD-00182,2024-03-23,CUST-0063,Keyboard,Office Supplies,East,137.1,2.25,2,0.3
+ORD-01161,2024-03-24,CUST-0136,Notebook Pack,Technology,Central,2070.94,277.29,6,0.3
+ORD-00054,2024-03-24,CUST-0117,Storage Cabinet,Technology,East,1838.58,48.05,6,0.1
+ORD-00404,2024-03-25,CUST-0023,Laptop Stand,Technology,Central,2190.23,-7.17,6,0.3
+ORD-00452,2024-03-25,CUST-0010,Office Chair,Technology,Central,3330.66,18.72,7,0.1
+ORD-00179,2024-03-26,CUST-0098,Wireless Mouse,Furniture,Central,3539.99,621.27,7,0.0
+ORD-00020,2024-03-26,CUST-0117,Desk Lamp,Technology,Central,1179.77,15.82,2,0.0
+ORD-00405,2024-03-26,CUST-0161,Monitor,Technology,West,808.48,3.25,7,0.5
+ORD-01052,2024-03-27,CUST-0044,Keyboard,Furniture,West,188.82,14.32,5,0.2
+ORD-01090,2024-03-28,CUST-0072,Office Chair,Office Supplies,Central,236.57,19.49,5,0.2
+ORD-00666,2024-03-28,CUST-0020,Desk Lamp,Office Supplies,East,97.33,-12.26,1,0.0
+ORD-01007,2024-03-29,CUST-0152,Notebook Pack,Furniture,South,2313.14,-200.07,5,0.0
+ORD-00628,2024-03-30,CUST-0111,Monitor,Office Supplies,East,74.44,-2.87,4,0.3
+ORD-00875,2024-03-30,CUST-0074,Keyboard,Office Supplies,West,175.3,38.29,3,0.05
+ORD-00158,2024-03-30,CUST-0019,Monitor,Office Supplies,South,20.77,5.35,6,0.0
+ORD-01151,2024-03-30,CUST-0136,Desk Lamp,Office Supplies,South,186.82,36.05,3,0.3
+ORD-00555,2024-03-30,CUST-0058,Desk Lamp,Office Supplies,South,133.21,-0.07,4,0.3
+ORD-00114,2024-03-31,CUST-0163,Storage Cabinet,Technology,South,1557.57,179.66,2,0.0
+ORD-00419,2024-03-31,CUST-0179,Notebook Pack,Technology,West,470.01,-66.96,1,0.3
+ORD-00444,2024-04-02,CUST-0024,Notebook Pack,Technology,West,379.25,-30.95,1,0.2
+ORD-00939,2024-04-02,CUST-0073,Monitor,Office Supplies,East,242.81,-9.02,7,0.0
+ORD-01050,2024-04-02,CUST-0092,Laptop Stand,Office Supplies,East,823.34,-71.96,7,0.0
+ORD-00896,2024-04-03,CUST-0170,Laptop Stand,Technology,East,945.43,-59.7,2,0.0
+ORD-00999,2024-04-06,CUST-0031,Laptop Stand,Office Supplies,West,538.92,42.08,6,0.0
+ORD-00016,2024-04-06,CUST-0092,Desk Lamp,Furniture,South,376.16,84.94,3,0.2
+ORD-00607,2024-04-07,CUST-0087,Keyboard,Furniture,South,834.12,36.14,7,0.0
+ORD-00343,2024-04-08,CUST-0103,Monitor,Technology,Central,1447.02,-131.98,5,0.5
+ORD-00802,2024-04-08,CUST-0072,Desk Lamp,Office Supplies,East,242.76,43.87,4,0.0
+ORD-00548,2024-04-09,CUST-0145,Storage Cabinet,Furniture,West,1512.33,-15.76,4,0.0
+ORD-01164,2024-04-10,CUST-0137,Desk Lamp,Office Supplies,Central,504.05,74.62,5,0.1
+ORD-00716,2024-04-10,CUST-0051,Wireless Mouse,Office Supplies,Central,250.79,3.29,4,0.3
+ORD-00365,2024-04-11,CUST-0082,Storage Cabinet,Furniture,East,1155.69,-124.51,4,0.3
+ORD-01014,2024-04-12,CUST-0021,Laptop Stand,Office Supplies,Central,125.9,6.08,4,0.0
+ORD-00448,2024-04-13,CUST-0176,Storage Cabinet,Office Supplies,South,165.99,-24.72,2,0.0
+ORD-00700,2024-04-13,CUST-0097,Laptop Stand,Office Supplies,South,212.73,-23.1,7,0.0
+ORD-00295,2024-04-13,CUST-0078,Storage Cabinet,Office Supplies,East,384.54,-46.0,5,0.2
+ORD-01009,2024-04-13,CUST-0025,Laptop Stand,Technology,West,2634.21,472.72,6,0.5
+ORD-00892,2024-04-15,CUST-0145,Notebook Pack,Office Supplies,South,10.46,-0.23,1,0.0
+ORD-00711,2024-04-15,CUST-0160,Desk Lamp,Technology,South,2203.18,221.85,3,0.0
+ORD-00678,2024-04-15,CUST-0131,Desk Lamp,Office Supplies,East,25.27,-1.96,7,0.5
+ORD-00577,2024-04-16,CUST-0030,Monitor,Furniture,West,284.63,-3.39,1,0.3
+ORD-01073,2024-04-17,CUST-0084,Wireless Mouse,Office Supplies,West,103.98,24.55,2,0.2
+ORD-01194,2024-04-18,CUST-0086,Laptop Stand,Office Supplies,East,576.77,146.38,6,0.0
+ORD-00996,2024-04-18,CUST-0053,Keyboard,Technology,South,1178.23,-78.36,3,0.1
+ORD-00010,2024-04-18,CUST-0113,Office Chair,Office Supplies,East,248.21,45.53,3,0.1
+ORD-00994,2024-04-21,CUST-0119,Wireless Mouse,Office Supplies,West,404.19,-9.12,6,0.3
+ORD-00506,2024-04-22,CUST-0178,Office Chair,Technology,West,4646.89,-821.49,7,0.0
+ORD-00487,2024-04-22,CUST-0074,Office Chair,Furniture,South,769.76,-16.58,3,0.2
+ORD-01163,2024-04-23,CUST-0022,Notebook Pack,Office Supplies,West,578.23,-84.51,6,0.0
+ORD-00746,2024-04-23,CUST-0029,Wireless Mouse,Technology,East,495.7,65.52,1,0.3
+ORD-01146,2024-04-23,CUST-0059,Office Chair,Office Supplies,West,268.99,-41.32,7,0.1
+ORD-00655,2024-04-24,CUST-0154,Wireless Mouse,Office Supplies,East,226.08,-7.24,6,0.2
+ORD-00350,2024-04-24,CUST-0051,Office Chair,Technology,East,900.58,168.45,3,0.3
+ORD-00647,2024-04-26,CUST-0098,Notebook Pack,Office Supplies,West,36.04,6.57,6,0.0
+ORD-00605,2024-04-27,CUST-0009,Wireless Mouse,Office Supplies,West,24.57,6.8,2,0.2
+ORD-00560,2024-04-27,CUST-0070,Keyboard,Furniture,Central,1834.86,-303.56,5,0.0
+ORD-00930,2024-04-28,CUST-0130,Monitor,Technology,South,640.71,2.45,1,0.1
+ORD-00876,2024-04-30,CUST-0084,Notebook Pack,Office Supplies,Central,24.19,3.47,4,0.0
+ORD-01139,2024-04-30,CUST-0017,Desk Lamp,Technology,East,1448.25,-247.0,3,0.2
+ORD-00538,2024-05-01,CUST-0001,Office Chair,Office Supplies,West,186.49,7.16,3,0.0
+ORD-00926,2024-05-02,CUST-0056,Desk Lamp,Furniture,Central,1054.54,215.78,3,0.05
+ORD-00304,2024-05-03,CUST-0108,Desk Lamp,Office Supplies,East,236.35,44.72,3,0.1
+ORD-00916,2024-05-03,CUST-0173,Keyboard,Technology,East,390.24,-2.31,1,0.1
+ORD-00288,2024-05-03,CUST-0020,Office Chair,Office Supplies,East,84.27,3.36,2,0.0
+ORD-00294,2024-05-05,CUST-0074,Desk Lamp,Furniture,West,383.13,57.72,1,0.3
+ORD-00028,2024-05-05,CUST-0028,Desk Lamp,Office Supplies,South,444.34,96.56,4,0.0
+ORD-00806,2024-05-05,CUST-0079,Wireless Mouse,Furniture,West,232.71,-6.17,4,0.1
+ORD-00788,2024-05-05,CUST-0038,Wireless Mouse,Office Supplies,South,146.75,-24.44,2,0.2
+ORD-00056,2024-05-06,CUST-0040,Laptop Stand,Office Supplies,South,17.76,0.21,1,0.05
+ORD-00982,2024-05-07,CUST-0110,Wireless Mouse,Office Supplies,South,221.17,39.98,7,0.1
+ORD-00228,2024-05-07,CUST-0049,Storage Cabinet,Office Supplies,Central,50.32,-1.62,1,0.1
+ORD-00330,2024-05-07,CUST-0017,Office Chair,Furniture,West,189.32,26.37,1,0.0
+ORD-00878,2024-05-08,CUST-0047,Keyboard,Furniture,Central,1058.83,-112.7,5,0.5
+ORD-00991,2024-05-09,CUST-0074,Notebook Pack,Office Supplies,East,139.21,-16.95,6,0.3
+ORD-00761,2024-05-12,CUST-0178,Laptop Stand,Furniture,East,667.14,31.94,3,0.0
+ORD-00654,2024-05-12,CUST-0020,Keyboard,Office Supplies,West,63.95,-5.15,1,0.0
+ORD-00131,2024-05-13,CUST-0130,Wireless Mouse,Furniture,Central,1006.15,73.95,4,0.3
+ORD-00307,2024-05-13,CUST-0087,Notebook Pack,Furniture,South,128.35,21.22,1,0.3
+ORD-00754,2024-05-14,CUST-0175,Wireless Mouse,Office Supplies,Central,190.0,-19.24,5,0.3
+ORD-00329,2024-05-14,CUST-0166,Notebook Pack,Technology,Central,4130.74,19.34,5,0.0
+ORD-00455,2024-05-14,CUST-0042,Storage Cabinet,Furniture,West,777.67,172.94,2,0.2
+ORD-00033,2024-05-14,CUST-0135,Desk Lamp,Office Supplies,East,37.9,6.99,7,0.0
+ORD-01128,2024-05-15,CUST-0005,Desk Lamp,Office Supplies,East,215.45,20.46,3,0.3
+ORD-01083,2024-05-15,CUST-0142,Laptop Stand,Office Supplies,East,98.48,-8.12,4,0.1
+ORD-00112,2024-05-15,CUST-0141,Storage Cabinet,Office Supplies,East,127.52,20.97,4,0.05
+ORD-00157,2024-05-16,CUST-0025,Storage Cabinet,Furniture,West,800.69,3.28,5,0.0
+ORD-01002,2024-05-17,CUST-0008,Storage Cabinet,Office Supplies,West,511.31,32.09,7,0.0
+ORD-00133,2024-05-18,CUST-0146,Storage Cabinet,Office Supplies,South,81.18,10.09,3,0.2
+ORD-01028,2024-05-23,CUST-0053,Notebook Pack,Technology,East,672.05,98.79,4,0.3
+ORD-00705,2024-05-23,CUST-0045,Keyboard,Furniture,South,221.7,58.0,1,0.0
+ORD-00130,2024-05-23,CUST-0081,Monitor,Office Supplies,East,36.64,5.98,1,0.0
+ORD-00078,2024-05-23,CUST-0002,Keyboard,Office Supplies,Central,49.66,4.88,5,0.1
+ORD-00125,2024-05-23,CUST-0034,Notebook Pack,Office Supplies,East,80.37,-14.19,2,0.0
+ORD-00979,2024-05-24,CUST-0083,Laptop Stand,Office Supplies,East,342.02,43.77,4,0.0
+ORD-01188,2024-05-24,CUST-0173,Wireless Mouse,Office Supplies,South,41.93,-4.02,2,0.05
+ORD-00436,2024-05-25,CUST-0030,Desk Lamp,Furniture,Central,740.04,-87.12,6,0.05
+ORD-00115,2024-05-26,CUST-0054,Monitor,Office Supplies,East,184.46,-29.98,2,0.0
+ORD-00287,2024-05-29,CUST-0001,Desk Lamp,Furniture,East,249.4,-5.46,1,0.0
+ORD-00569,2024-05-29,CUST-0036,Laptop Stand,Office Supplies,West,172.97,28.43,2,0.2
+ORD-00977,2024-05-30,CUST-0087,Keyboard,Office Supplies,East,46.84,-3.88,2,0.1
+ORD-00707,2024-05-30,CUST-0030,Office Chair,Technology,East,760.81,-14.9,3,0.3
+ORD-00921,2024-05-30,CUST-0172,Office Chair,Technology,West,1509.54,108.99,4,0.1
+ORD-00128,2024-06-01,CUST-0122,Notebook Pack,Technology,East,1985.66,-45.12,3,0.0
+ORD-00534,2024-06-03,CUST-0156,Desk Lamp,Office Supplies,Central,271.93,-12.03,7,0.3
+ORD-00929,2024-06-04,CUST-0058,Notebook Pack,Technology,West,3030.25,258.91,6,0.05
+ORD-00596,2024-06-05,CUST-0176,Wireless Mouse,Office Supplies,South,221.17,50.71,7,0.0
+ORD-00227,2024-06-05,CUST-0163,Desk Lamp,Technology,East,1744.15,-57.69,5,0.0
+ORD-00265,2024-06-06,CUST-0021,Notebook Pack,Office Supplies,Central,101.09,10.09,1,0.0
+ORD-00676,2024-06-06,CUST-0042,Notebook Pack,Technology,West,2224.23,-265.8,6,0.1
+ORD-00423,2024-06-07,CUST-0003,Notebook Pack,Technology,South,4099.72,571.67,5,0.0
+ORD-01160,2024-06-08,CUST-0117,Storage Cabinet,Office Supplies,East,71.6,-8.12,1,0.0
+ORD-00241,2024-06-09,CUST-0093,Desk Lamp,Technology,East,849.85,38.97,2,0.3
+ORD-01117,2024-06-11,CUST-0079,Office Chair,Office Supplies,East,293.07,13.82,5,0.3
+ORD-00259,2024-06-12,CUST-0093,Laptop Stand,Furniture,Central,356.02,55.3,7,0.2
+ORD-00984,2024-06-12,CUST-0115,Storage Cabinet,Office Supplies,Central,280.5,35.28,7,0.0
+ORD-01155,2024-06-12,CUST-0067,Office Chair,Office Supplies,Central,144.13,17.45,2,0.2
+ORD-00965,2024-06-13,CUST-0167,Storage Cabinet,Technology,Central,2984.06,37.85,6,0.2
+ORD-00785,2024-06-13,CUST-0143,Wireless Mouse,Office Supplies,Central,434.57,114.16,7,0.0
+ORD-00980,2024-06-14,CUST-0126,Wireless Mouse,Office Supplies,East,349.05,27.89,3,0.0
+ORD-00269,2024-06-15,CUST-0011,Office Chair,Technology,South,2500.06,-303.46,6,0.1
+ORD-00697,2024-06-15,CUST-0158,Monitor,Technology,West,3379.3,129.37,6,0.0
+ORD-00547,2024-06-16,CUST-0068,Laptop Stand,Office Supplies,West,308.08,23.54,5,0.1
+ORD-00914,2024-06-16,CUST-0134,Wireless Mouse,Technology,South,347.39,37.16,2,0.0
+ORD-00519,2024-06-18,CUST-0094,Wireless Mouse,Office Supplies,East,36.64,9.56,1,0.05
+ORD-00687,2024-06-18,CUST-0075,Laptop Stand,Technology,South,257.44,38.53,1,0.0
+ORD-00467,2024-06-20,CUST-0122,Laptop Stand,Technology,Central,650.08,-109.64,1,0.0
+ORD-00664,2024-06-21,CUST-0151,Office Chair,Office Supplies,East,131.38,4.56,5,0.2
+ORD-00454,2024-06-21,CUST-0029,Office Chair,Office Supplies,West,324.29,23.59,4,0.0
+ORD-00530,2024-06-22,CUST-0141,Office Chair,Office Supplies,Central,28.05,-4.36,1,0.2
+ORD-01187,2024-06-22,CUST-0176,Laptop Stand,Technology,Central,625.2,0.21,1,0.1
+ORD-00393,2024-06-23,CUST-0004,Desk Lamp,Furniture,East,1071.24,241.03,4,0.3
+ORD-00719,2024-06-23,CUST-0096,Storage Cabinet,Office Supplies,Central,264.04,36.94,5,0.05
+ORD-01047,2024-06-24,CUST-0032,Storage Cabinet,Office Supplies,Central,123.35,-13.28,3,0.0
+ORD-00966,2024-06-25,CUST-0057,Office Chair,Office Supplies,West,369.2,16.97,7,0.2
+ORD-00136,2024-06-26,CUST-0115,Wireless Mouse,Technology,South,520.41,97.64,2,0.1
+ORD-00493,2024-06-26,CUST-0072,Wireless Mouse,Office Supplies,Central,65.32,-4.71,3,0.0
+ORD-00624,2024-06-27,CUST-0140,Laptop Stand,Office Supplies,West,8.93,-1.15,4,0.5
+ORD-00849,2024-06-29,CUST-0119,Storage Cabinet,Furniture,South,206.57,30.71,2,0.2
+ORD-00489,2024-06-29,CUST-0017,Laptop Stand,Furniture,West,348.35,-24.42,1,0.0
+ORD-00192,2024-06-30,CUST-0178,Notebook Pack,Technology,South,198.2,-11.94,2,0.0
+ORD-01180,2024-07-01,CUST-0033,Monitor,Office Supplies,Central,126.49,-12.22,4,0.05
+ORD-00955,2024-07-03,CUST-0089,Monitor,Office Supplies,West,205.92,-29.09,7,0.5
+ORD-00895,2024-07-04,CUST-0141,Notebook Pack,Furniture,East,776.65,60.34,6,0.3
+ORD-00268,2024-07-05,CUST-0140,Office Chair,Office Supplies,East,11.79,-0.79,2,0.2
+ORD-00766,2024-07-05,CUST-0067,Wireless Mouse,Office Supplies,East,451.58,2.0,5,0.1
+ORD-01134,2024-07-06,CUST-0100,Office Chair,Furniture,South,172.78,41.96,1,0.0
+ORD-00671,2024-07-06,CUST-0038,Monitor,Furniture,West,202.23,39.88,3,0.0
+ORD-00952,2024-07-07,CUST-0155,Laptop Stand,Office Supplies,East,91.51,15.73,6,0.1
+ORD-00322,2024-07-07,CUST-0035,Laptop Stand,Office Supplies,Central,99.02,17.93,1,0.05
+ORD-00600,2024-07-08,CUST-0011,Wireless Mouse,Office Supplies,South,5.04,0.6,1,0.0
+ORD-00986,2024-07-08,CUST-0055,Keyboard,Office Supplies,Central,291.75,17.96,4,0.0
+ORD-00899,2024-07-08,CUST-0045,Desk Lamp,Technology,West,2989.81,756.32,6,0.3
+ORD-00701,2024-07-08,CUST-0096,Laptop Stand,Technology,East,598.83,48.58,1,0.1
+ORD-01199,2024-07-12,CUST-0133,Wireless Mouse,Office Supplies,East,268.89,5.75,4,0.2
+ORD-00674,2024-07-13,CUST-0074,Keyboard,Office Supplies,East,298.5,37.19,4,0.1
+ORD-00342,2024-07-13,CUST-0016,Office Chair,Furniture,Central,896.71,0.51,5,0.1
+ORD-00824,2024-07-14,CUST-0014,Office Chair,Furniture,East,161.42,-7.12,4,0.0
+ORD-00995,2024-07-17,CUST-0147,Notebook Pack,Office Supplies,East,545.85,-8.78,6,0.1
+ORD-00239,2024-07-18,CUST-0172,Desk Lamp,Office Supplies,East,96.9,-8.17,2,0.3
+ORD-00244,2024-07-19,CUST-0026,Office Chair,Technology,South,5198.78,-283.98,6,0.0
+ORD-00598,2024-07-19,CUST-0087,Wireless Mouse,Office Supplies,South,13.92,3.73,1,0.0
+ORD-00084,2024-07-20,CUST-0069,Laptop Stand,Office Supplies,East,49.71,-8.53,5,0.3
+ORD-01170,2024-07-20,CUST-0008,Desk Lamp,Furniture,Central,1553.18,-46.59,7,0.05
+ORD-00191,2024-07-21,CUST-0096,Monitor,Office Supplies,Central,18.92,3.08,1,0.0
+ORD-01171,2024-07-21,CUST-0149,Storage Cabinet,Furniture,East,319.16,20.08,6,0.1
+ORD-00879,2024-07-21,CUST-0023,Notebook Pack,Technology,East,2188.78,1.01,5,0.5
+ORD-01110,2024-07-22,CUST-0051,Monitor,Office Supplies,East,80.55,4.36,1,0.3
+ORD-00039,2024-07-22,CUST-0008,Wireless Mouse,Technology,South,725.47,-104.24,2,0.3
+ORD-00657,2024-07-23,CUST-0106,Notebook Pack,Furniture,West,1470.65,193.19,4,0.0
+ORD-01195,2024-07-24,CUST-0119,Laptop Stand,Office Supplies,East,723.56,101.06,7,0.1
+ORD-00457,2024-07-24,CUST-0158,Monitor,Office Supplies,West,350.74,61.74,5,0.2
+ORD-00474,2024-07-24,CUST-0130,Wireless Mouse,Office Supplies,Central,31.27,5.64,2,0.05
+ORD-00340,2024-07-25,CUST-0086,Desk Lamp,Office Supplies,West,220.8,-12.32,3,0.3
+ORD-00957,2024-07-25,CUST-0114,Laptop Stand,Technology,Central,4716.38,1252.63,7,0.0
+ORD-00742,2024-07-25,CUST-0158,Keyboard,Furniture,West,1098.22,-81.41,4,0.2
+ORD-00129,2024-07-25,CUST-0062,Monitor,Technology,East,1996.92,103.8,3,0.05
+ORD-00672,2024-07-26,CUST-0109,Storage Cabinet,Office Supplies,South,188.02,11.7,3,0.0
+ORD-00919,2024-07-26,CUST-0127,Desk Lamp,Technology,West,1349.37,271.23,6,0.2
+ORD-00098,2024-07-27,CUST-0096,Laptop Stand,Office Supplies,South,326.28,0.41,6,0.3
+ORD-01127,2024-07-27,CUST-0031,Monitor,Technology,Central,526.7,32.13,2,0.1
+ORD-00781,2024-07-27,CUST-0113,Wireless Mouse,Furniture,South,163.14,-10.96,1,0.3
+ORD-00615,2024-07-29,CUST-0020,Desk Lamp,Office Supplies,East,17.67,4.28,1,0.0
+ORD-01067,2024-07-30,CUST-0132,Desk Lamp,Furniture,South,807.01,91.73,2,0.0
+ORD-00599,2024-08-01,CUST-0094,Notebook Pack,Office Supplies,South,49.1,10.24,1,0.0
+ORD-00568,2024-08-01,CUST-0013,Storage Cabinet,Technology,Central,519.92,49.17,2,0.5
+ORD-00025,2024-08-02,CUST-0175,Wireless Mouse,Office Supplies,West,629.5,-24.18,6,0.0
+ORD-00983,2024-08-06,CUST-0117,Office Chair,Technology,South,884.64,112.58,1,0.0
+ORD-01129,2024-08-07,CUST-0027,Monitor,Furniture,West,390.07,-20.86,7,0.05
+ORD-00243,2024-08-07,CUST-0078,Notebook Pack,Technology,Central,1736.0,27.43,3,0.0
+ORD-00933,2024-08-07,CUST-0072,Desk Lamp,Office Supplies,West,295.87,-50.16,5,0.3
+ORD-00823,2024-08-08,CUST-0108,Office Chair,Technology,South,253.95,66.55,1,0.05
+ORD-01088,2024-08-08,CUST-0169,Desk Lamp,Technology,Central,782.39,67.68,1,0.0
+ORD-00770,2024-08-09,CUST-0150,Desk Lamp,Furniture,South,400.45,65.35,4,0.1
+ORD-00501,2024-08-09,CUST-0033,Monitor,Office Supplies,South,259.92,-20.55,7,0.1
+ORD-00651,2024-08-10,CUST-0046,Keyboard,Office Supplies,Central,498.71,47.0,6,0.3
+ORD-00985,2024-08-10,CUST-0053,Notebook Pack,Technology,Central,2984.65,371.93,6,0.3
+ORD-00122,2024-08-11,CUST-0099,Monitor,Technology,Central,4667.1,-599.23,6,0.0
+ORD-00002,2024-08-12,CUST-0178,Laptop Stand,Office Supplies,East,347.97,-9.19,5,0.0
+ORD-00841,2024-08-13,CUST-0161,Wireless Mouse,Office Supplies,West,790.68,185.02,7,0.05
+ORD-00729,2024-08-15,CUST-0172,Notebook Pack,Furniture,East,1085.85,163.23,3,0.2
+ORD-00315,2024-08-16,CUST-0168,Wireless Mouse,Technology,West,297.02,19.09,1,0.1
+ORD-00254,2024-08-17,CUST-0103,Monitor,Furniture,East,455.66,-67.98,2,0.5
+ORD-00371,2024-08-18,CUST-0066,Monitor,Office Supplies,West,6.33,0.78,1,0.3
+ORD-00155,2024-08-18,CUST-0090,Desk Lamp,Technology,East,1809.65,459.83,5,0.0
+ORD-00236,2024-08-19,CUST-0077,Office Chair,Technology,South,3853.11,1042.84,6,0.0
+ORD-00445,2024-08-19,CUST-0054,Laptop Stand,Furniture,East,2227.97,-3.98,6,0.0
+ORD-00478,2024-08-20,CUST-0167,Laptop Stand,Office Supplies,West,133.88,0.14,6,0.3
+ORD-00161,2024-08-20,CUST-0013,Keyboard,Furniture,Central,187.08,-11.3,2,0.2
+ORD-00107,2024-08-21,CUST-0043,Keyboard,Office Supplies,South,86.99,0.96,6,0.2
+ORD-00818,2024-08-22,CUST-0130,Office Chair,Office Supplies,South,104.7,-13.26,6,0.0
+ORD-00310,2024-08-22,CUST-0061,Wireless Mouse,Technology,Central,1797.38,495.2,4,0.1
+ORD-00821,2024-08-22,CUST-0119,Office Chair,Technology,East,1139.28,153.02,5,0.0
+ORD-01048,2024-08-24,CUST-0029,Laptop Stand,Furniture,Central,519.33,139.6,6,0.0
+ORD-00121,2024-08-24,CUST-0050,Office Chair,Furniture,South,589.44,151.19,5,0.0
+ORD-00858,2024-08-25,CUST-0071,Wireless Mouse,Technology,Central,280.44,27.04,3,0.2
+ORD-00079,2024-08-25,CUST-0156,Notebook Pack,Office Supplies,South,412.68,25.71,5,0.2
+ORD-00640,2024-08-26,CUST-0077,Wireless Mouse,Technology,Central,1516.35,171.06,3,0.3
+ORD-01131,2024-08-26,CUST-0155,Wireless Mouse,Furniture,Central,878.07,124.11,6,0.1
+ORD-00735,2024-08-27,CUST-0030,Wireless Mouse,Technology,Central,688.28,-13.04,5,0.0
+ORD-00282,2024-08-27,CUST-0053,Desk Lamp,Office Supplies,East,218.6,-22.73,5,0.1
+ORD-00311,2024-08-28,CUST-0042,Monitor,Technology,Central,1266.61,-18.7,3,0.1
+ORD-01070,2024-08-30,CUST-0058,Notebook Pack,Office Supplies,South,230.41,26.69,3,0.05
+ORD-00415,2024-09-01,CUST-0032,Desk Lamp,Technology,East,370.7,28.02,1,0.3
+ORD-00256,2024-09-01,CUST-0178,Desk Lamp,Technology,South,2958.08,808.52,5,0.2
+ORD-00048,2024-09-02,CUST-0059,Wireless Mouse,Office Supplies,East,54.63,6.58,2,0.2
+ORD-00710,2024-09-03,CUST-0014,Desk Lamp,Technology,West,760.04,-46.89,3,0.5
+ORD-00549,2024-09-04,CUST-0130,Office Chair,Furniture,Central,489.82,-50.45,5,0.3
+ORD-00826,2024-09-04,CUST-0111,Storage Cabinet,Office Supplies,West,19.01,-3.17,4,0.0
+ORD-00097,2024-09-06,CUST-0122,Monitor,Technology,Central,831.99,217.66,7,0.0
+ORD-00059,2024-09-06,CUST-0145,Keyboard,Office Supplies,South,320.27,-23.51,3,0.0
+ORD-00190,2024-09-07,CUST-0056,Keyboard,Office Supplies,Central,708.79,-55.08,7,0.0
+ORD-00812,2024-09-08,CUST-0028,Wireless Mouse,Technology,Central,1653.22,296.87,3,0.2
+ORD-00614,2024-09-09,CUST-0160,Monitor,Office Supplies,West,212.9,-5.37,2,0.1
+ORD-00787,2024-09-09,CUST-0039,Monitor,Office Supplies,South,61.01,-1.1,1,0.3
+ORD-00635,2024-09-09,CUST-0025,Laptop Stand,Technology,South,220.93,19.29,1,0.0
+ORD-00074,2024-09-09,CUST-0138,Office Chair,Technology,East,4078.77,-345.75,7,0.2
+ORD-01061,2024-09-10,CUST-0180,Keyboard,Office Supplies,Central,4.44,0.74,1,0.0
+ORD-01148,2024-09-12,CUST-0037,Office Chair,Technology,South,1584.97,190.96,2,0.0
+ORD-00586,2024-09-12,CUST-0036,Wireless Mouse,Furniture,East,253.73,11.4,4,0.2
+ORD-00940,2024-09-13,CUST-0127,Keyboard,Office Supplies,South,515.17,140.23,6,0.0
+ORD-01182,2024-09-13,CUST-0166,Monitor,Technology,South,831.37,128.43,1,0.0
+ORD-00421,2024-09-16,CUST-0001,Keyboard,Furniture,South,777.22,121.52,3,0.2
+ORD-00665,2024-09-17,CUST-0073,Laptop Stand,Office Supplies,Central,82.39,-1.16,1,0.05
+ORD-00183,2024-09-18,CUST-0162,Monitor,Office Supplies,West,562.01,4.96,7,0.0
+ORD-00007,2024-09-19,CUST-0130,Storage Cabinet,Furniture,South,2047.63,541.97,6,0.0
+ORD-00874,2024-09-19,CUST-0126,Desk Lamp,Furniture,West,601.37,3.86,4,0.5
+ORD-00174,2024-09-19,CUST-0160,Storage Cabinet,Office Supplies,South,190.04,11.65,4,0.1
+ORD-00865,2024-09-20,CUST-0092,Storage Cabinet,Office Supplies,West,311.35,86.02,7,0.0
+ORD-00931,2024-09-21,CUST-0176,Storage Cabinet,Office Supplies,East,367.92,74.84,6,0.3
+ORD-00203,2024-09-21,CUST-0059,Desk Lamp,Furniture,Central,217.47,33.54,2,0.1
+ORD-00042,2024-09-22,CUST-0174,Monitor,Furniture,East,423.82,51.55,3,0.2
+ORD-00085,2024-09-22,CUST-0009,Desk Lamp,Office Supplies,East,405.91,72.13,6,0.3
+ORD-00981,2024-09-23,CUST-0044,Keyboard,Office Supplies,East,463.89,100.73,5,0.2
+ORD-01193,2024-09-24,CUST-0040,Keyboard,Technology,Central,4835.12,-55.38,7,0.2
+ORD-00222,2024-09-25,CUST-0107,Office Chair,Furniture,Central,2438.72,163.53,5,0.0
+ORD-01063,2024-09-26,CUST-0093,Laptop Stand,Technology,East,103.69,15.65,1,0.3
+ORD-00109,2024-09-26,CUST-0154,Monitor,Office Supplies,Central,366.19,74.57,5,0.0
+ORD-01040,2024-09-27,CUST-0041,Office Chair,Furniture,South,916.61,-78.73,4,0.0
+ORD-00891,2024-09-30,CUST-0059,Laptop Stand,Office Supplies,Central,121.94,30.11,3,0.0
+ORD-00540,2024-09-30,CUST-0078,Keyboard,Technology,West,2521.25,326.9,7,0.1
+ORD-01044,2024-09-30,CUST-0128,Desk Lamp,Furniture,South,1146.9,256.37,6,0.3
+ORD-00905,2024-09-30,CUST-0050,Office Chair,Office Supplies,South,98.6,-4.94,1,0.0
+ORD-01076,2024-10-02,CUST-0038,Wireless Mouse,Office Supplies,South,168.98,38.36,6,0.05
+ORD-01196,2024-10-04,CUST-0171,Monitor,Technology,South,631.19,70.2,3,0.1
+ORD-00429,2024-10-05,CUST-0023,Wireless Mouse,Furniture,West,219.08,20.72,2,0.3
+ORD-00176,2024-10-07,CUST-0174,Wireless Mouse,Office Supplies,Central,514.16,113.58,6,0.0
+ORD-00773,2024-10-07,CUST-0062,Monitor,Furniture,Central,1917.22,236.17,4,0.0
+ORD-00014,2024-10-07,CUST-0014,Storage Cabinet,Technology,Central,1607.47,-283.5,4,0.3
+ORD-00211,2024-10-07,CUST-0102,Keyboard,Office Supplies,East,362.99,85.87,5,0.2
+ORD-00235,2024-10-09,CUST-0019,Notebook Pack,Office Supplies,East,55.98,14.36,5,0.05
+ORD-00394,2024-10-09,CUST-0127,Desk Lamp,Office Supplies,West,329.99,65.53,5,0.1
+ORD-00696,2024-10-11,CUST-0104,Storage Cabinet,Office Supplies,South,271.67,13.29,7,0.1
+ORD-00224,2024-10-11,CUST-0047,Wireless Mouse,Furniture,South,868.87,-42.65,3,0.2
+ORD-00726,2024-10-11,CUST-0065,Laptop Stand,Furniture,Central,1349.38,-101.49,7,0.0
+ORD-00173,2024-10-12,CUST-0076,Office Chair,Office Supplies,South,74.32,8.41,2,0.3
+ORD-00460,2024-10-12,CUST-0112,Monitor,Technology,South,1658.31,372.53,2,0.05
+ORD-01118,2024-10-12,CUST-0154,Office Chair,Furniture,Central,1447.3,350.2,3,0.0
+ORD-00792,2024-10-12,CUST-0052,Monitor,Furniture,Central,2016.45,-135.21,6,0.0
+ORD-00680,2024-10-13,CUST-0070,Notebook Pack,Furniture,South,96.7,3.13,2,0.0
+ORD-01136,2024-10-14,CUST-0082,Laptop Stand,Office Supplies,East,52.94,5.79,4,0.3
+ORD-00675,2024-10-15,CUST-0022,Keyboard,Office Supplies,Central,133.37,9.22,7,0.0
+ORD-00712,2024-10-16,CUST-0001,Laptop Stand,Office Supplies,South,149.84,-7.55,4,0.05
+ORD-00317,2024-10-16,CUST-0009,Notebook Pack,Office Supplies,West,479.69,19.67,7,0.2
+ORD-00730,2024-10-17,CUST-0017,Wireless Mouse,Office Supplies,Central,486.61,-34.22,5,0.0
+ORD-00759,2024-10-18,CUST-0034,Storage Cabinet,Office Supplies,East,154.22,43.01,7,0.3
+ORD-01032,2024-10-19,CUST-0169,Laptop Stand,Technology,South,1701.72,-112.65,7,0.3
+ORD-00316,2024-10-19,CUST-0087,Monitor,Technology,West,2122.41,-12.61,6,0.3
+ORD-00736,2024-10-19,CUST-0068,Monitor,Furniture,East,3800.58,228.68,3,0.0
+ORD-01008,2024-10-22,CUST-0043,Wireless Mouse,Technology,West,1053.56,103.23,7,0.1
+ORD-00661,2024-10-23,CUST-0054,Desk Lamp,Office Supplies,East,744.61,101.67,7,0.0
+ORD-00885,2024-10-23,CUST-0118,Keyboard,Technology,West,216.84,-2.28,1,0.3
+ORD-00556,2024-10-24,CUST-0063,Storage Cabinet,Technology,Central,824.31,165.37,1,0.0
+ORD-00012,2024-10-24,CUST-0083,Desk Lamp,Office Supplies,Central,16.74,4.41,5,0.2
+ORD-00376,2024-10-24,CUST-0099,Desk Lamp,Office Supplies,East,52.7,-1.47,2,0.3
+ORD-00630,2024-10-25,CUST-0064,Laptop Stand,Furniture,South,438.03,-25.49,4,0.5
+ORD-00214,2024-10-25,CUST-0106,Notebook Pack,Technology,Central,1733.3,93.57,5,0.2
+ORD-00756,2024-10-25,CUST-0096,Office Chair,Office Supplies,East,385.81,-65.05,4,0.0
+ORD-01001,2024-10-25,CUST-0002,Desk Lamp,Office Supplies,West,842.54,133.91,3,0.5
+ORD-00470,2024-10-26,CUST-0138,Wireless Mouse,Furniture,East,263.76,-41.68,1,0.5
+ORD-00804,2024-10-26,CUST-0144,Keyboard,Technology,Central,1484.92,400.55,4,0.2
+ORD-00738,2024-10-26,CUST-0173,Monitor,Technology,South,1497.72,54.23,3,0.0
+ORD-00431,2024-10-27,CUST-0162,Office Chair,Office Supplies,West,262.42,24.16,6,0.2
+ORD-00602,2024-10-27,CUST-0082,Monitor,Technology,Central,667.07,98.13,4,0.0
+ORD-01035,2024-10-30,CUST-0143,Desk Lamp,Office Supplies,South,152.46,-9.87,2,0.0
+ORD-01138,2024-10-31,CUST-0008,Laptop Stand,Office Supplies,South,163.84,-18.48,2,0.05
+ORD-00058,2024-10-31,CUST-0098,Keyboard,Office Supplies,West,390.23,-19.44,5,0.2
+ORD-00877,2024-11-01,CUST-0080,Keyboard,Technology,West,275.03,-39.07,1,0.0
+ORD-00061,2024-11-01,CUST-0167,Monitor,Furniture,South,2063.89,55.05,6,0.3
+ORD-00511,2024-11-02,CUST-0085,Storage Cabinet,Furniture,South,788.26,207.23,6,0.2
+ORD-00390,2024-11-03,CUST-0133,Wireless Mouse,Technology,Central,5299.74,-896.31,6,0.0
+ORD-00377,2024-11-03,CUST-0144,Wireless Mouse,Office Supplies,West,210.92,34.25,2,0.0
+ORD-00359,2024-11-04,CUST-0154,Office Chair,Office Supplies,South,163.05,-15.88,4,0.3
+ORD-00462,2024-11-04,CUST-0034,Keyboard,Office Supplies,Central,138.67,-13.99,2,0.2
+ORD-00894,2024-11-05,CUST-0030,Keyboard,Office Supplies,Central,105.34,-7.97,5,0.0
+ORD-01064,2024-11-08,CUST-0020,Laptop Stand,Office Supplies,South,37.67,9.96,1,0.2
+ORD-00492,2024-11-09,CUST-0119,Monitor,Technology,West,2181.55,51.76,3,0.05
+ORD-01097,2024-11-10,CUST-0089,Laptop Stand,Technology,South,472.36,90.41,1,0.0
+ORD-01072,2024-11-11,CUST-0054,Storage Cabinet,Office Supplies,Central,96.3,25.03,5,0.5
+ORD-00246,2024-11-12,CUST-0169,Monitor,Office Supplies,South,608.55,168.19,6,0.1
+ORD-00233,2024-11-13,CUST-0102,Keyboard,Technology,East,931.1,108.6,2,0.0
+ORD-00041,2024-11-13,CUST-0140,Storage Cabinet,Furniture,East,761.6,175.63,3,0.0
+ORD-00050,2024-11-14,CUST-0044,Desk Lamp,Technology,South,874.29,-0.64,3,0.1
+ORD-00013,2024-11-16,CUST-0157,Notebook Pack,Furniture,Central,2337.37,216.21,5,0.1
+ORD-01133,2024-11-17,CUST-0149,Keyboard,Technology,West,1726.67,-193.45,7,0.1
+ORD-00741,2024-11-17,CUST-0046,Monitor,Furniture,East,2226.41,-290.61,7,0.0
+ORD-00206,2024-11-18,CUST-0063,Keyboard,Office Supplies,West,123.26,-11.07,5,0.5
+ORD-00713,2024-11-18,CUST-0140,Storage Cabinet,Office Supplies,South,214.9,25.53,4,0.3
+ORD-00127,2024-11-19,CUST-0016,Laptop Stand,Office Supplies,Central,24.17,6.48,7,0.05
+ORD-00488,2024-11-19,CUST-0170,Monitor,Office Supplies,West,5.4,1.38,1,0.0
+ORD-00656,2024-11-20,CUST-0068,Monitor,Technology,East,734.96,92.18,7,0.0
+ORD-00422,2024-11-20,CUST-0167,Storage Cabinet,Office Supplies,South,162.66,-16.25,2,0.0
+ORD-00319,2024-11-22,CUST-0083,Office Chair,Technology,East,1299.04,-70.08,3,0.0
+ORD-01147,2024-11-22,CUST-0136,Monitor,Office Supplies,South,369.46,39.78,4,0.0
+ORD-00088,2024-11-22,CUST-0019,Notebook Pack,Furniture,West,642.13,85.59,3,0.1
+ORD-00644,2024-11-24,CUST-0134,Wireless Mouse,Technology,West,4012.59,859.6,6,0.0
+ORD-00910,2024-11-24,CUST-0051,Monitor,Furniture,West,2163.59,128.61,5,0.0
+ORD-01060,2024-11-24,CUST-0005,Storage Cabinet,Office Supplies,Central,91.81,6.59,4,0.0
+ORD-01057,2024-11-25,CUST-0118,Desk Lamp,Office Supplies,West,116.53,-16.56,6,0.0
+ORD-00369,2024-11-25,CUST-0178,Wireless Mouse,Furniture,East,102.94,-7.59,1,0.5
+ORD-00172,2024-11-25,CUST-0081,Laptop Stand,Furniture,South,1249.14,54.51,7,0.1
+ORD-00863,2024-11-25,CUST-0130,Wireless Mouse,Technology,West,2799.58,688.41,4,0.2
+ORD-00001,2024-11-27,CUST-0086,Office Chair,Office Supplies,Central,101.44,21.72,6,0.0
+ORD-00733,2024-11-27,CUST-0172,Wireless Mouse,Office Supplies,West,480.7,-61.57,5,0.0
+ORD-00835,2024-11-30,CUST-0153,Storage Cabinet,Office Supplies,Central,92.37,-2.06,6,0.3
+ORD-00401,2024-11-30,CUST-0133,Office Chair,Technology,West,1118.5,206.41,6,0.5
+ORD-00209,2024-12-01,CUST-0051,Laptop Stand,Office Supplies,West,509.94,-80.23,5,0.0
+ORD-00814,2024-12-01,CUST-0117,Wireless Mouse,Furniture,Central,1073.91,-160.74,3,0.0
+ORD-00049,2024-12-01,CUST-0177,Keyboard,Office Supplies,South,166.72,8.62,3,0.1
+ORD-00597,2024-12-02,CUST-0034,Storage Cabinet,Furniture,West,567.65,-24.04,4,0.3
+ORD-00601,2024-12-02,CUST-0085,Notebook Pack,Office Supplies,Central,481.73,0.14,7,0.3
+ORD-00765,2024-12-03,CUST-0134,Office Chair,Technology,Central,866.65,-116.2,7,0.3
+ORD-00106,2024-12-03,CUST-0046,Storage Cabinet,Office Supplies,West,117.63,31.19,1,0.0
+ORD-00111,2024-12-03,CUST-0063,Office Chair,Office Supplies,Central,191.08,26.68,4,0.0
+ORD-00024,2024-12-04,CUST-0076,Wireless Mouse,Technology,West,2010.0,344.72,4,0.2
+ORD-00805,2024-12-04,CUST-0024,Notebook Pack,Office Supplies,East,298.95,-8.73,4,0.2
+ORD-00277,2024-12-05,CUST-0071,Storage Cabinet,Office Supplies,East,478.8,-78.4,6,0.0
+ORD-00689,2024-12-05,CUST-0081,Office Chair,Furniture,West,1341.22,208.39,4,0.2
+ORD-00917,2024-12-06,CUST-0098,Monitor,Technology,Central,324.8,33.1,1,0.0
+ORD-00612,2024-12-06,CUST-0122,Monitor,Office Supplies,Central,350.62,-59.37,7,0.2
+ORD-00159,2024-12-06,CUST-0066,Wireless Mouse,Technology,South,344.58,21.12,2,0.2
+ORD-00475,2024-12-07,CUST-0178,Keyboard,Office Supplies,East,14.97,2.17,2,0.1
+ORD-00724,2024-12-08,CUST-0066,Keyboard,Technology,Central,343.38,6.97,2,0.3
+ORD-00954,2024-12-08,CUST-0127,Office Chair,Office Supplies,East,312.77,71.53,4,0.1
+ORD-00015,2024-12-08,CUST-0021,Storage Cabinet,Office Supplies,West,9.86,-1.66,1,0.0
+ORD-00105,2024-12-09,CUST-0121,Notebook Pack,Office Supplies,Central,551.52,-6.5,5,0.05
+ORD-00989,2024-12-09,CUST-0106,Wireless Mouse,Office Supplies,South,6.83,0.69,1,0.3
+ORD-00248,2024-12-09,CUST-0134,Desk Lamp,Office Supplies,West,71.35,-10.35,1,0.05
+ORD-00212,2024-12-11,CUST-0046,Storage Cabinet,Office Supplies,Central,238.46,2.18,5,0.0
+ORD-00638,2024-12-14,CUST-0041,Storage Cabinet,Office Supplies,West,460.24,94.19,6,0.2
+ORD-00558,2024-12-14,CUST-0103,Monitor,Office Supplies,East,737.98,-31.63,7,0.0
+ORD-01132,2024-12-15,CUST-0049,Monitor,Office Supplies,West,109.59,6.74,6,0.0
+ORD-00260,2024-12-15,CUST-0143,Keyboard,Office Supplies,Central,101.21,17.98,1,0.05
+ORD-00691,2024-12-16,CUST-0045,Keyboard,Office Supplies,South,34.57,0.92,5,0.3
+ORD-00134,2024-12-16,CUST-0097,Storage Cabinet,Office Supplies,West,207.58,20.75,5,0.0
+ORD-00744,2024-12-16,CUST-0069,Keyboard,Office Supplies,East,88.82,-2.69,7,0.1
+ORD-00070,2024-12-17,CUST-0067,Keyboard,Office Supplies,East,77.33,19.59,1,0.3
+ORD-00483,2024-12-18,CUST-0144,Office Chair,Furniture,South,643.62,-64.03,4,0.3
+ORD-00104,2024-12-18,CUST-0110,Storage Cabinet,Office Supplies,East,287.64,29.93,6,0.1
+ORD-01011,2024-12-20,CUST-0140,Monitor,Furniture,Central,146.93,3.33,4,0.5
+ORD-00715,2024-12-20,CUST-0094,Monitor,Technology,Central,1176.27,185.53,4,0.5
+ORD-00590,2024-12-21,CUST-0106,Laptop Stand,Office Supplies,East,26.19,-3.29,1,0.2
+ORD-00685,2024-12-21,CUST-0033,Laptop Stand,Furniture,East,1009.96,59.88,2,0.0
+ORD-00859,2024-12-21,CUST-0073,Desk Lamp,Technology,Central,3175.59,-505.86,6,0.3
+ORD-00595,2024-12-22,CUST-0037,Office Chair,Furniture,East,790.39,106.47,4,0.2
+ORD-01086,2024-12-22,CUST-0164,Wireless Mouse,Office Supplies,South,342.93,37.83,4,0.05
+ORD-00851,2024-12-22,CUST-0055,Office Chair,Technology,Central,2810.89,596.84,4,0.2
+ORD-01198,2024-12-23,CUST-0046,Desk Lamp,Technology,South,770.97,-120.42,2,0.5
+ORD-00550,2024-12-23,CUST-0168,Monitor,Office Supplies,East,291.28,15.3,4,0.3
+ORD-00471,2024-12-24,CUST-0103,Notebook Pack,Office Supplies,West,74.04,7.06,1,0.0
+ORD-00427,2024-12-24,CUST-0106,Desk Lamp,Technology,South,2182.58,208.6,5,0.3
+ORD-00653,2024-12-24,CUST-0029,Monitor,Office Supplies,South,183.64,-3.74,3,0.05
+ORD-00091,2024-12-25,CUST-0155,Wireless Mouse,Office Supplies,Central,116.4,-8.09,7,0.0
+ORD-00102,2024-12-25,CUST-0126,Storage Cabinet,Office Supplies,Central,285.13,20.88,4,0.3
+ORD-00290,2024-12-27,CUST-0050,Storage Cabinet,Technology,South,413.31,-49.94,3,0.3
+ORD-00335,2024-12-28,CUST-0006,Desk Lamp,Furniture,East,292.52,3.04,2,0.5
+ORD-00226,2024-12-28,CUST-0121,Monitor,Technology,West,755.02,-115.97,5,0.5
+ORD-01000,2024-12-28,CUST-0066,Notebook Pack,Technology,East,4136.51,19.69,7,0.0
+ORD-00836,2024-12-28,CUST-0106,Laptop Stand,Office Supplies,West,54.39,7.85,6,0.05
+ORD-00884,2025-01-01,CUST-0024,Notebook Pack,Office Supplies,Central,112.67,20.56,1,0.0
+ORD-00165,2025-01-02,CUST-0004,Laptop Stand,Office Supplies,East,396.64,-5.42,5,0.0
+ORD-00513,2025-01-04,CUST-0133,Wireless Mouse,Office Supplies,West,91.0,-1.7,1,0.0
+ORD-00740,2025-01-05,CUST-0030,Storage Cabinet,Technology,West,184.49,5.96,1,0.0
+ORD-00848,2025-01-07,CUST-0136,Monitor,Technology,South,1444.15,-159.77,3,0.1
+ORD-00866,2025-01-07,CUST-0131,Storage Cabinet,Furniture,East,669.71,26.22,4,0.0
+ORD-01024,2025-01-09,CUST-0073,Storage Cabinet,Office Supplies,Central,14.75,1.17,1,0.0
+ORD-00148,2025-01-09,CUST-0133,Office Chair,Furniture,West,372.63,4.15,1,0.0
+ORD-00027,2025-01-10,CUST-0178,Notebook Pack,Furniture,Central,1241.02,12.25,5,0.0
+ORD-00793,2025-01-12,CUST-0116,Laptop Stand,Technology,Central,431.05,70.16,1,0.3
+ORD-00523,2025-01-12,CUST-0132,Desk Lamp,Office Supplies,West,143.46,35.79,5,0.0
+ORD-00604,2025-01-13,CUST-0024,Notebook Pack,Office Supplies,East,354.65,-14.36,4,0.0
+ORD-00301,2025-01-13,CUST-0047,Storage Cabinet,Office Supplies,Central,49.16,-7.58,1,0.2
+ORD-00432,2025-01-13,CUST-0017,Office Chair,Office Supplies,West,22.07,4.12,2,0.3
+ORD-00037,2025-01-14,CUST-0023,Wireless Mouse,Furniture,East,109.45,29.34,3,0.1
+ORD-01039,2025-01-14,CUST-0160,Wireless Mouse,Office Supplies,Central,668.46,-78.04,6,0.0
+ORD-00552,2025-01-15,CUST-0114,Monitor,Office Supplies,East,141.77,34.02,2,0.3
+ORD-00481,2025-01-16,CUST-0003,Storage Cabinet,Office Supplies,Central,321.63,-13.1,7,0.2
+ORD-00333,2025-01-16,CUST-0034,Wireless Mouse,Office Supplies,East,57.93,4.11,1,0.0
+ORD-00544,2025-01-17,CUST-0038,Keyboard,Office Supplies,West,53.25,-3.61,2,0.2
+ORD-00387,2025-01-18,CUST-0015,Wireless Mouse,Office Supplies,East,45.05,-3.71,5,0.5
+ORD-00100,2025-01-19,CUST-0137,Desk Lamp,Technology,West,1528.25,377.79,2,0.05
+ORD-00089,2025-01-19,CUST-0112,Desk Lamp,Office Supplies,West,529.93,-27.29,6,0.0
+ORD-00083,2025-01-19,CUST-0145,Notebook Pack,Office Supplies,East,89.21,-15.81,7,0.0
+ORD-00581,2025-01-20,CUST-0062,Laptop Stand,Office Supplies,South,220.22,7.37,3,0.0
+ORD-00610,2025-01-20,CUST-0045,Office Chair,Technology,East,1960.21,333.29,3,0.0
+ORD-01096,2025-01-21,CUST-0031,Monitor,Office Supplies,East,94.45,-6.13,2,0.2
+ORD-01079,2025-01-22,CUST-0122,Laptop Stand,Office Supplies,East,344.52,-36.53,3,0.0
+ORD-01015,2025-01-23,CUST-0071,Laptop Stand,Technology,East,1890.93,-161.05,6,0.0
+ORD-00815,2025-01-23,CUST-0058,Laptop Stand,Office Supplies,Central,50.99,9.41,2,0.0
+ORD-00588,2025-01-23,CUST-0086,Keyboard,Office Supplies,West,187.33,-32.95,2,0.1
+ORD-00867,2025-01-24,CUST-0164,Laptop Stand,Office Supplies,South,15.35,-1.51,2,0.05
+ORD-00018,2025-01-25,CUST-0146,Keyboard,Office Supplies,Central,540.18,92.38,6,0.0
+ORD-01085,2025-01-25,CUST-0150,Notebook Pack,Technology,South,2556.78,288.41,7,0.0
+ORD-01124,2025-01-26,CUST-0135,Desk Lamp,Technology,South,96.27,26.34,1,0.3
+ORD-00512,2025-01-26,CUST-0159,Keyboard,Office Supplies,East,22.79,-0.12,1,0.05
+ORD-00458,2025-01-26,CUST-0152,Office Chair,Furniture,Central,764.15,-129.58,3,0.0
+ORD-00962,2025-01-26,CUST-0073,Laptop Stand,Furniture,East,1255.48,-32.19,3,0.0
+ORD-01023,2025-01-27,CUST-0077,Laptop Stand,Technology,East,2861.85,-281.4,5,0.3
+ORD-00092,2025-01-27,CUST-0080,Keyboard,Office Supplies,East,105.14,26.84,2,0.3
+ORD-01092,2025-01-28,CUST-0043,Monitor,Office Supplies,East,287.63,43.89,3,0.05
+ORD-00589,2025-01-29,CUST-0136,Wireless Mouse,Technology,South,1937.84,280.03,4,0.0
+ORD-01125,2025-01-29,CUST-0149,Notebook Pack,Office Supplies,East,838.16,216.92,7,0.0
+ORD-00722,2025-01-30,CUST-0149,Desk Lamp,Furniture,South,358.61,-12.48,2,0.3
+ORD-01143,2025-01-30,CUST-0133,Storage Cabinet,Furniture,Central,455.3,59.32,1,0.0
+ORD-00864,2025-01-31,CUST-0107,Notebook Pack,Furniture,Central,701.27,180.14,7,0.3
+ORD-00360,2025-01-31,CUST-0053,Monitor,Office Supplies,West,153.09,4.02,5,0.3
+ORD-00774,2025-01-31,CUST-0101,Office Chair,Technology,Central,3159.75,105.76,7,0.2
+ORD-00476,2025-02-01,CUST-0027,Office Chair,Office Supplies,East,190.93,31.68,2,0.0
+ORD-00649,2025-02-02,CUST-0030,Monitor,Office Supplies,East,157.73,15.37,5,0.2
+ORD-01162,2025-02-02,CUST-0174,Laptop Stand,Furniture,South,1383.41,-172.68,5,0.05
+ORD-00296,2025-02-03,CUST-0100,Wireless Mouse,Office Supplies,Central,194.25,35.36,2,0.0
+ORD-00855,2025-02-03,CUST-0066,Wireless Mouse,Furniture,East,878.87,147.79,7,0.1
+ORD-01006,2025-02-04,CUST-0025,Notebook Pack,Office Supplies,West,489.77,39.95,5,0.0
+ORD-01157,2025-02-04,CUST-0040,Keyboard,Furniture,Central,442.63,66.54,6,0.0
+ORD-00779,2025-02-04,CUST-0144,Notebook Pack,Technology,West,192.83,-21.75,2,0.05
+ORD-01149,2025-02-05,CUST-0091,Laptop Stand,Technology,Central,512.58,39.0,3,0.0
+ORD-00559,2025-02-05,CUST-0105,Storage Cabinet,Office Supplies,West,26.89,-3.87,1,0.1
+ORD-00881,2025-02-05,CUST-0017,Desk Lamp,Technology,South,1082.62,270.29,2,0.1
+ORD-01126,2025-02-07,CUST-0062,Wireless Mouse,Technology,Central,4141.24,96.98,7,0.2
+ORD-00145,2025-02-07,CUST-0180,Notebook Pack,Office Supplies,Central,426.97,-28.96,6,0.1
+ORD-00834,2025-02-07,CUST-0178,Desk Lamp,Technology,South,552.18,-38.0,1,0.0
+ORD-00642,2025-02-07,CUST-0147,Wireless Mouse,Technology,South,3293.87,-542.47,7,0.0
+ORD-00124,2025-02-08,CUST-0156,Desk Lamp,Furniture,West,223.45,-21.45,1,0.2
+ORD-00231,2025-02-09,CUST-0034,Office Chair,Office Supplies,South,271.45,-17.93,5,0.1
+ORD-00150,2025-02-09,CUST-0011,Notebook Pack,Office Supplies,West,97.15,22.65,1,0.0
+ORD-01041,2025-02-09,CUST-0120,Wireless Mouse,Technology,South,161.52,-15.78,4,0.5
+ORD-00609,2025-02-10,CUST-0173,Notebook Pack,Technology,Central,1476.23,90.12,6,0.0
+ORD-00005,2025-02-11,CUST-0163,Office Chair,Technology,South,158.24,32.87,2,0.05
+ORD-00036,2025-02-11,CUST-0001,Wireless Mouse,Technology,East,3770.72,-413.44,5,0.0
+ORD-00667,2025-02-13,CUST-0137,Office Chair,Technology,West,1497.42,-126.71,2,0.0
+ORD-00828,2025-02-16,CUST-0095,Desk Lamp,Office Supplies,West,151.07,-1.2,4,0.5
+ORD-00426,2025-02-16,CUST-0105,Notebook Pack,Furniture,West,518.82,-58.22,7,0.3
+ORD-00503,2025-02-19,CUST-0036,Wireless Mouse,Office Supplies,West,380.39,62.3,4,0.1
+ORD-00491,2025-02-19,CUST-0161,Monitor,Office Supplies,South,306.97,59.62,4,0.05
+ORD-01022,2025-02-20,CUST-0005,Laptop Stand,Furniture,South,2031.36,118.15,5,0.0
+ORD-00920,2025-02-24,CUST-0139,Desk Lamp,Technology,South,299.03,4.05,2,0.0
+ORD-00557,2025-02-26,CUST-0110,Wireless Mouse,Office Supplies,Central,59.75,-9.2,3,0.0
+ORD-00395,2025-02-26,CUST-0030,Desk Lamp,Office Supplies,West,64.26,17.76,1,0.3
+ORD-00780,2025-03-01,CUST-0119,Office Chair,Office Supplies,Central,332.76,26.65,7,0.0
+ORD-00811,2025-03-02,CUST-0071,Storage Cabinet,Furniture,East,12606.75,2225.5,6,0.2
+ORD-00516,2025-03-04,CUST-0117,Office Chair,Furniture,Central,100.11,-11.51,2,0.1
+ORD-01140,2025-03-04,CUST-0077,Laptop Stand,Technology,West,503.47,-6.47,2,0.0
+ORD-00903,2025-03-06,CUST-0024,Wireless Mouse,Office Supplies,West,128.35,-17.46,4,0.2
+ORD-01003,2025-03-08,CUST-0061,Office Chair,Technology,South,2211.81,594.74,4,0.1
+ORD-00374,2025-03-08,CUST-0027,Desk Lamp,Technology,East,285.23,64.82,2,0.0
+ORD-00034,2025-03-10,CUST-0115,Office Chair,Technology,South,1013.39,256.67,2,0.1
+ORD-00564,2025-03-11,CUST-0104,Keyboard,Technology,West,543.4,35.29,1,0.1
+ORD-00361,2025-03-12,CUST-0046,Keyboard,Office Supplies,East,544.67,101.92,7,0.0
+ORD-00357,2025-03-13,CUST-0140,Monitor,Furniture,East,338.61,56.26,1,0.0
+ORD-00388,2025-03-13,CUST-0156,Keyboard,Furniture,South,892.59,160.39,2,0.1
+ORD-00047,2025-03-14,CUST-0084,Keyboard,Technology,East,1597.02,332.33,4,0.0
+ORD-00363,2025-03-15,CUST-0166,Office Chair,Office Supplies,South,34.39,-2.44,2,0.05
+ORD-00578,2025-03-15,CUST-0056,Monitor,Furniture,West,146.45,2.49,1,0.0
+ORD-00303,2025-03-17,CUST-0059,Storage Cabinet,Furniture,West,1669.23,-270.03,5,0.05
+ORD-00827,2025-03-18,CUST-0172,Office Chair,Furniture,East,344.72,-21.93,1,0.2
+ORD-00739,2025-03-19,CUST-0038,Keyboard,Technology,South,2683.83,645.83,4,0.1
+ORD-00094,2025-03-19,CUST-0172,Wireless Mouse,Furniture,West,1056.72,-50.19,3,0.1
+ORD-00178,2025-03-21,CUST-0091,Wireless Mouse,Office Supplies,South,264.85,-38.29,6,0.05
+ORD-00591,2025-03-23,CUST-0159,Monitor,Furniture,East,1478.32,106.43,7,0.1
+ORD-01036,2025-03-23,CUST-0045,Keyboard,Technology,South,251.37,47.38,1,0.3
+ORD-00219,2025-03-23,CUST-0086,Storage Cabinet,Office Supplies,Central,378.38,15.22,7,0.0
+ORD-00344,2025-03-25,CUST-0042,Notebook Pack,Furniture,Central,370.0,34.76,2,0.1
+ORD-00066,2025-03-25,CUST-0010,Office Chair,Technology,West,759.6,152.22,3,0.0
+ORD-01107,2025-03-27,CUST-0028,Office Chair,Furniture,South,1139.58,62.74,4,0.2
+ORD-00201,2025-03-28,CUST-0044,Office Chair,Technology,East,1746.06,236.7,7,0.0
+ORD-00842,2025-03-29,CUST-0135,Storage Cabinet,Office Supplies,Central,245.2,0.07,4,0.3
+ORD-01153,2025-03-29,CUST-0084,Monitor,Office Supplies,Central,424.14,47.02,6,0.0
+ORD-00839,2025-03-30,CUST-0081,Monitor,Office Supplies,South,452.79,-37.9,6,0.3
+ORD-00942,2025-04-02,CUST-0174,Desk Lamp,Office Supplies,South,268.72,26.51,4,0.0
+ORD-00528,2025-04-03,CUST-0080,Wireless Mouse,Technology,East,3967.46,720.2,6,0.1
+ORD-00641,2025-04-04,CUST-0018,Office Chair,Office Supplies,Central,98.74,27.42,1,0.0
+ORD-00323,2025-04-04,CUST-0028,Office Chair,Office Supplies,Central,111.01,12.68,7,0.0
+ORD-00152,2025-04-05,CUST-0090,Office Chair,Furniture,South,393.81,54.89,5,0.5
+ORD-01169,2025-04-05,CUST-0032,Keyboard,Office Supplies,East,38.86,8.27,7,0.0
+ORD-00803,2025-04-06,CUST-0083,Monitor,Office Supplies,West,284.47,-29.98,6,0.0
+ORD-00668,2025-04-07,CUST-0006,Monitor,Office Supplies,Central,91.79,-15.49,4,0.1
+ORD-01102,2025-04-07,CUST-0103,Storage Cabinet,Furniture,East,531.3,-21.06,5,0.0
+ORD-00529,2025-04-08,CUST-0019,Storage Cabinet,Furniture,West,636.18,88.98,3,0.0
+ORD-01080,2025-04-08,CUST-0138,Wireless Mouse,Furniture,East,557.04,-80.57,3,0.05
+ORD-00714,2025-04-08,CUST-0060,Storage Cabinet,Technology,Central,404.3,-55.36,7,0.3
+ORD-01005,2025-04-08,CUST-0144,Wireless Mouse,Office Supplies,East,56.17,-9.22,1,0.0
+ORD-00968,2025-04-08,CUST-0169,Office Chair,Furniture,West,864.21,34.59,4,0.0
+ORD-00732,2025-04-09,CUST-0151,Laptop Stand,Office Supplies,Central,514.64,-5.58,5,0.0
+ORD-00060,2025-04-10,CUST-0048,Notebook Pack,Technology,East,712.3,131.81,4,0.3
+ORD-00526,2025-04-11,CUST-0171,Office Chair,Furniture,Central,345.17,-51.18,1,0.0
+ORD-00451,2025-04-12,CUST-0004,Keyboard,Technology,West,3771.66,25.87,6,0.0
+ORD-00585,2025-04-12,CUST-0044,Monitor,Office Supplies,South,82.76,-5.53,5,0.5
+ORD-00263,2025-04-12,CUST-0010,Storage Cabinet,Furniture,Central,537.19,74.73,7,0.3
+ORD-00498,2025-04-13,CUST-0065,Laptop Stand,Office Supplies,East,140.31,2.58,3,0.0
+ORD-01066,2025-04-13,CUST-0124,Notebook Pack,Office Supplies,Central,61.04,17.06,1,0.3
+ORD-00576,2025-04-13,CUST-0060,Monitor,Office Supplies,East,54.9,-6.31,1,0.0
+ORD-00420,2025-04-14,CUST-0048,Laptop Stand,Technology,West,1308.96,154.63,5,0.0
+ORD-01181,2025-04-14,CUST-0081,Laptop Stand,Technology,South,4849.59,-101.25,6,0.1
+ORD-00023,2025-04-14,CUST-0118,Laptop Stand,Office Supplies,South,740.4,-74.63,7,0.0
+ORD-00437,2025-04-14,CUST-0112,Laptop Stand,Office Supplies,South,55.67,5.28,2,0.3
+ORD-00861,2025-04-15,CUST-0102,Desk Lamp,Technology,East,1680.39,-266.6,4,0.0
+ORD-01142,2025-04-18,CUST-0099,Monitor,Office Supplies,East,518.33,31.05,7,0.2
+ORD-00692,2025-04-18,CUST-0159,Notebook Pack,Office Supplies,East,644.45,124.47,6,0.0
+ORD-00721,2025-04-18,CUST-0097,Monitor,Furniture,Central,490.57,52.79,3,0.0
+ORD-00490,2025-04-19,CUST-0139,Office Chair,Office Supplies,South,234.76,1.68,7,0.0
+ORD-00469,2025-04-19,CUST-0131,Keyboard,Office Supplies,Central,187.83,-20.59,2,0.1
+ORD-00408,2025-04-20,CUST-0043,Storage Cabinet,Furniture,West,290.3,65.22,4,0.0
+ORD-00679,2025-04-22,CUST-0019,Monitor,Office Supplies,Central,158.22,15.19,4,0.3
+ORD-00753,2025-04-22,CUST-0084,Desk Lamp,Office Supplies,Central,109.47,-4.44,1,0.0
+ORD-00347,2025-04-22,CUST-0153,Desk Lamp,Office Supplies,South,616.45,77.76,7,0.0
+ORD-00763,2025-04-22,CUST-0148,Desk Lamp,Technology,East,4942.69,-807.4,7,0.2
+ORD-00381,2025-04-23,CUST-0039,Monitor,Furniture,South,326.52,31.39,2,0.3
+ORD-00318,2025-04-24,CUST-0090,Keyboard,Technology,South,2486.31,425.32,4,0.0
+ORD-00180,2025-04-24,CUST-0177,Office Chair,Furniture,South,1511.98,186.99,3,0.0
+ORD-00285,2025-04-24,CUST-0156,Keyboard,Technology,West,628.55,45.74,7,0.2
+ORD-00080,2025-04-26,CUST-0134,Keyboard,Furniture,West,627.83,-66.94,7,0.2
+ORD-00935,2025-04-26,CUST-0124,Laptop Stand,Office Supplies,Central,244.22,13.0,3,0.05
+ORD-01108,2025-04-26,CUST-0056,Office Chair,Office Supplies,South,84.97,-11.94,2,0.0
+ORD-00925,2025-05-01,CUST-0046,Laptop Stand,Furniture,West,489.01,-87.07,1,0.0
+ORD-00693,2025-05-01,CUST-0128,Monitor,Technology,East,3382.27,-15.21,6,0.0
+ORD-00382,2025-05-02,CUST-0093,Desk Lamp,Furniture,Central,183.26,-21.55,5,0.0
+ORD-00948,2025-05-03,CUST-0153,Notebook Pack,Office Supplies,South,182.05,31.13,3,0.3
+ORD-00639,2025-05-03,CUST-0100,Laptop Stand,Office Supplies,Central,144.5,35.69,3,0.0
+ORD-00570,2025-05-03,CUST-0061,Office Chair,Office Supplies,South,508.92,-25.83,6,0.0
+ORD-00762,2025-05-04,CUST-0026,Wireless Mouse,Office Supplies,South,87.56,15.39,1,0.2
+ORD-00964,2025-05-04,CUST-0172,Storage Cabinet,Office Supplies,West,14.22,0.48,1,0.0
+ORD-00775,2025-05-06,CUST-0010,Notebook Pack,Technology,Central,1073.84,-48.78,7,0.3
+ORD-00670,2025-05-07,CUST-0008,Laptop Stand,Furniture,Central,721.55,-41.49,2,0.0
+ORD-00339,2025-05-07,CUST-0112,Laptop Stand,Furniture,South,2345.14,-165.35,5,0.0
+ORD-00292,2025-05-08,CUST-0006,Laptop Stand,Office Supplies,East,87.37,-14.3,1,0.2
+ORD-00447,2025-05-10,CUST-0120,Monitor,Office Supplies,South,289.16,27.22,5,0.0
+ORD-00273,2025-05-12,CUST-0038,Notebook Pack,Furniture,South,1684.08,336.14,6,0.05
+ORD-01053,2025-05-12,CUST-0091,Desk Lamp,Office Supplies,Central,37.27,-2.84,1,0.3
+ORD-00683,2025-05-12,CUST-0153,Office Chair,Office Supplies,South,477.43,127.12,6,0.2
+ORD-01082,2025-05-12,CUST-0059,Notebook Pack,Furniture,South,2636.29,710.21,6,0.0
+ORD-00682,2025-05-13,CUST-0033,Desk Lamp,Furniture,West,1292.63,98.31,6,0.0
+ORD-00514,2025-05-13,CUST-0116,Desk Lamp,Furniture,West,8605.02,867.7,6,0.0
+ORD-00194,2025-05-13,CUST-0039,Keyboard,Office Supplies,Central,17.15,-1.87,3,0.3
+ORD-00648,2025-05-14,CUST-0094,Desk Lamp,Furniture,West,1247.04,-112.56,4,0.0
+ORD-00450,2025-05-14,CUST-0035,Monitor,Technology,East,3606.43,-499.3,6,0.3
+ORD-00998,2025-05-15,CUST-0103,Laptop Stand,Technology,Central,1002.63,216.26,3,0.05
+ORD-00750,2025-05-15,CUST-0165,Wireless Mouse,Office Supplies,Central,23.85,2.42,6,0.2
+ORD-00199,2025-05-15,CUST-0054,Desk Lamp,Furniture,West,562.95,62.81,2,0.2
+ORD-00852,2025-05-16,CUST-0066,Notebook Pack,Furniture,East,1187.37,281.91,5,0.3
+ORD-00502,2025-05-16,CUST-0123,Laptop Stand,Furniture,East,1471.93,322.44,4,0.1
+ORD-00336,2025-05-16,CUST-0028,Office Chair,Office Supplies,West,190.83,34.91,4,0.1
+ORD-00465,2025-05-19,CUST-0072,Notebook Pack,Office Supplies,South,391.67,98.38,4,0.05
+ORD-00063,2025-05-20,CUST-0149,Laptop Stand,Office Supplies,Central,49.97,9.64,1,0.0
+ORD-00608,2025-05-20,CUST-0017,Storage Cabinet,Furniture,Central,106.16,16.19,1,0.3
+ORD-00860,2025-05-21,CUST-0161,Notebook Pack,Office Supplies,East,153.57,32.83,6,0.1
+ORD-00796,2025-05-21,CUST-0100,Office Chair,Furniture,Central,506.36,-59.73,1,0.0
+ORD-00416,2025-05-22,CUST-0143,Notebook Pack,Technology,South,571.0,-79.09,2,0.0
+ORD-00354,2025-05-22,CUST-0083,Laptop Stand,Technology,South,655.34,-86.94,6,0.2
+ORD-00207,2025-05-22,CUST-0158,Laptop Stand,Technology,South,3219.8,426.91,6,0.1
+ORD-00045,2025-05-23,CUST-0178,Desk Lamp,Technology,South,1399.64,170.11,4,0.5
+ORD-00403,2025-05-24,CUST-0058,Keyboard,Office Supplies,Central,405.61,94.22,7,0.1
+ORD-00958,2025-05-24,CUST-0147,Keyboard,Furniture,Central,475.31,39.87,3,0.0
+ORD-00440,2025-05-25,CUST-0130,Laptop Stand,Office Supplies,West,365.42,82.5,6,0.0
+ORD-00946,2025-05-26,CUST-0032,Office Chair,Technology,West,3534.44,389.1,4,0.0
+ORD-00324,2025-05-27,CUST-0109,Desk Lamp,Office Supplies,East,510.41,-89.88,7,0.0
+ORD-00011,2025-05-28,CUST-0141,Desk Lamp,Office Supplies,East,409.34,-29.62,6,0.2
+ORD-00593,2025-05-31,CUST-0051,Storage Cabinet,Office Supplies,South,552.85,-91.32,6,0.05
+ORD-00893,2025-06-01,CUST-0036,Storage Cabinet,Technology,East,419.78,48.49,5,0.5
+ORD-00913,2025-06-01,CUST-0164,Notebook Pack,Office Supplies,Central,501.57,48.42,7,0.2
+ORD-00850,2025-06-01,CUST-0032,Laptop Stand,Office Supplies,South,358.45,12.93,3,0.0
+ORD-01197,2025-06-02,CUST-0053,Office Chair,Technology,South,2648.55,-191.14,7,0.2
+ORD-00140,2025-06-03,CUST-0097,Laptop Stand,Technology,Central,683.58,90.05,3,0.1
+ORD-00554,2025-06-04,CUST-0113,Laptop Stand,Furniture,South,1427.12,311.6,3,0.05
+ORD-00771,2025-06-06,CUST-0166,Office Chair,Office Supplies,Central,356.05,35.51,5,0.0
+ORD-01081,2025-06-09,CUST-0064,Wireless Mouse,Technology,South,744.53,-97.03,7,0.1
+ORD-00264,2025-06-09,CUST-0154,Storage Cabinet,Office Supplies,Central,112.07,-13.17,4,0.5
+ORD-01087,2025-06-10,CUST-0148,Storage Cabinet,Office Supplies,East,48.68,-4.13,2,0.3
+ORD-00346,2025-06-11,CUST-0124,Office Chair,Technology,West,907.21,-50.66,4,0.1
+ORD-00144,2025-06-12,CUST-0034,Keyboard,Office Supplies,East,74.61,-2.97,1,0.0
+ORD-00355,2025-06-12,CUST-0030,Keyboard,Office Supplies,South,129.12,34.28,3,0.3
+ORD-00510,2025-06-14,CUST-0062,Laptop Stand,Office Supplies,South,180.51,29.68,2,0.05
+ORD-01055,2025-06-14,CUST-0124,Storage Cabinet,Office Supplies,Central,95.58,-12.94,2,0.0
+ORD-01116,2025-06-15,CUST-0016,Office Chair,Technology,West,1015.58,266.75,4,0.3
+ORD-00690,2025-06-15,CUST-0034,Notebook Pack,Technology,West,536.99,-46.88,4,0.1
+ORD-00160,2025-06-15,CUST-0015,Notebook Pack,Office Supplies,West,158.94,-26.96,2,0.05
+ORD-00809,2025-06-16,CUST-0114,Desk Lamp,Office Supplies,East,599.79,119.87,7,0.1
+ORD-01168,2025-06-17,CUST-0030,Keyboard,Furniture,East,1064.23,204.82,3,0.0
+ORD-00400,2025-06-17,CUST-0055,Office Chair,Office Supplies,West,43.69,9.49,4,0.5
+ORD-00819,2025-06-18,CUST-0083,Laptop Stand,Furniture,East,63.36,-2.51,1,0.1
